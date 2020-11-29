@@ -46,6 +46,8 @@ public class NewEvent extends ServerCommand {
 
 		String name = messagePieces[1];
 		int participants = Integer.parseInt(messagePieces[2]);
+
+		logger.log(Level.INFO, "New event: " + name + " at: " + date.toString() + " for: " + participants);
 	}
 
 	private Date parseTime(String[] messagePieces, MessageReceivedEvent event){

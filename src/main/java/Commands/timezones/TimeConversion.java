@@ -47,8 +47,8 @@ public class TimeConversion extends ServerCommand {
 		List<String[]> timezones = null;
 		List<String[]> users = null;
 		try {
-			CSVReader reader = new CSVReader(new FileReader("C:\\Users\\Joshua\\IdeaProjects\\The Time Lord\\src\\main\\resources\\timezones.csv"));
-			CSVReader userReader = new CSVReader(new FileReader("C:\\Users\\Joshua\\IdeaProjects\\The Time Lord\\src\\main\\resources\\users.csv"));
+			CSVReader reader = new CSVReader(new FileReader("src/main/resources/timezones.csv"));
+			CSVReader userReader = new CSVReader(new FileReader("src/main/resources/users.csv"));
 			timezones = reader.readAll();
 			users = userReader.readAll();
 			reader.close();

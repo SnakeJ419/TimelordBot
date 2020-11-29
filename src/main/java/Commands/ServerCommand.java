@@ -22,7 +22,7 @@ public abstract class ServerCommand {
 
 	static {
 		try {
-			fileLog = new FileHandler("src\\main\\resources\\TimeLordLog.log", true);
+			fileLog = new FileHandler("src/main/resources/TimeLordLog.log", true);
 			fileLog.setFormatter(new LogFormatter());
 		} catch (IOException e) {
 			e.printStackTrace();

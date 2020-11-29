@@ -23,21 +23,21 @@ public class NewEvent extends ServerCommand {
 	}
 
 	@Override
-	public void runCommand(MessageReceivedEvent event) {
-		logger.log(Level.INFO, "User: [" + event.getAuthor().getName() + "] Channel: [" + event.getChannel().getName() + "] Guild: [" + event.getGuild().getName() + ']');
+	public void runCommand(MessageReceivedEvent messageEvent) {
+		logger.log(Level.INFO, "User: [" + messageEvent.getAuthor().getName() + "] Channel: [" + messageEvent.getChannel().getName() + "] Guild: [" + messageEvent.getGuild().getName() + ']');
 
-		String message = event.getMessage().getContentRaw().toLowerCase();
+		String message = messageEvent.getMessage().getContentRaw().toLowerCase();
 		String[] messagePieces = message.split(" ");
 
 		if(messagePieces.length != 4 && messagePieces.length != 5){
-			formatError(event);
+			formatError(messageEvent);
 			return;
 		}
 
-		Date time = parseTime(messagePieces, event);
+		Date time = parseTime(messagePieces, messageEvent);
 		Date date = parseDate(messagePieces);
 		if(time == null || date == null){
-			formatError(event);
+			formatError(messageEvent);
 			return;
 		}
 		date.setHours(time.getHours());
@@ -47,7 +47,9 @@ public class NewEvent extends ServerCommand {
 		String name = messagePieces[1];
 		int participants = Integer.parseInt(messagePieces[2]);
 
-		logger.log(Level.INFO, "New event: " + name + " at: " + date.toString() + " for: " + participants);
+		Event event = new Event(date, name, messageEvent, participants);
+		logger.log(Level.FINE, event.toString());
+		EventCoordinator.addEvent(event);
 	}
 
 	private Date parseTime(String[] messagePieces, MessageReceivedEvent event){

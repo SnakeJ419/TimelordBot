@@ -15,7 +15,7 @@ import java.util.logging.Level;
 
 public class AddTimezone extends ServerCommand {
 	public AddTimezone() {
-		super("$addtimezone");
+		super("$addtimezone", true);
 	}
 
 	@Override

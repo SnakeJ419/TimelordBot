@@ -1,5 +1,6 @@
-package Commands;
+package Commands.meme;
 
+import Commands.ServerCommand;
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;

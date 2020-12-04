@@ -22,6 +22,7 @@ public class TimeConversion extends ServerCommand {
 		char[] chars = message.toCharArray();
 		int numbEnd = -1;
 		char amPM = 'f';
+		String mins = "00";
 		for(int i = 0; i < chars.length; i++){
 			if(chars[i] == 'a' && i+1 < chars.length && chars[i+1] == 'm'){
 				if(i-1 >= 0 && Character.isDigit(chars[i-1])){
@@ -31,6 +32,11 @@ public class TimeConversion extends ServerCommand {
 					amPM = 'a';
 					numbEnd = i-2;
 				}
+
+				if(amPM != 'f' && numbEnd-2 > 0 && chars[numbEnd-2] == ':'){
+					mins = String.format("%c%c", chars[numbEnd-1], chars[numbEnd]);
+					numbEnd -= 3;
+				}
 			} else if(chars[i] == 'p' && i+1 < chars.length && chars[i+1] == 'm'){
 				if(i-1 >= 0 && Character.isDigit(chars[i-1])){
 					amPM = 'p';
@@ -38,6 +44,11 @@ public class TimeConversion extends ServerCommand {
 				} else if(i-2 >=0 && chars[i-1] == ' ' && Character.isDigit(chars[i-2])){
 					amPM = 'p';
 					numbEnd = i-2;
+				}
+
+				if(amPM != 'f' && numbEnd-2 > 0 && chars[numbEnd-2] == ':'){
+					mins = String.format("%c%c", chars[numbEnd-1], chars[numbEnd]);
+					numbEnd -= 3;
 				}
 			}
 		}
@@ -90,13 +101,13 @@ public class TimeConversion extends ServerCommand {
 			}
 			zone = timezones.get(i);
 			int zoneTime = timeNumb + Integer.parseInt(zone[1]);
-			timeMessage += " " + parseTime(zoneTime, amPM) + " " + zone[0] + lastChar;
+			timeMessage += " " + parseTime(zoneTime, amPM, mins) + " " + zone[0] + lastChar;
 		}
 
 		event.getChannel().sendMessage(timeMessage).queue();
 	}
 
-	public String parseTime(int zoneTime, char amPM) {
+	public String parseTime(int zoneTime, char amPM, String mins) {
 		if(zoneTime > 12){
 			zoneTime -= 12;
 			amPM = oppisite(amPM);
@@ -106,9 +117,9 @@ public class TimeConversion extends ServerCommand {
 		}
 
 		if(zoneTime > 12 || zoneTime < 1){
-			return parseTime(zoneTime, amPM);
+			return parseTime(zoneTime, amPM, mins);
 		} else {
-			return Integer.toString(zoneTime) + amPM + 'm';
+			return Integer.toString(zoneTime) + ':' + mins + amPM + 'm';
 		}
 	}
 

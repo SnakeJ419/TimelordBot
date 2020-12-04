@@ -7,6 +7,8 @@ import Commands.Util.*;
 import Commands.dnd.DNDNick;
 import Commands.dnd.ResetNick;
 import Commands.dnd.SetDNDNick;
+import Commands.meme.DabCommand;
+import Commands.meme.Proof;
 import Commands.timezones.AddTimezone;
 import Commands.timezones.ListTimezones;
 import Commands.timezones.RegisterTimezone;
@@ -25,7 +27,7 @@ public class MessageProcessing extends ListenerAdapter {
 	private final Logger logger = Logger.getLogger(this.getClass().getSimpleName());
 	private final ServerCommand[] commands = new ServerCommand[]{new TimeConversion(), new AddTimezone(), new ListTimezones(), new RegisterTimezone(),
 			new DNDNick(), new ResetNick(), new SetDNDNick(), new Spookify(), new ForceReset(), new LoadMembers(), new Clean(), new Clear(), new ClearTo(), new DabCommand(), new Mistletoe(),
-			new DumpLog(), new iSearch(), new Annoy(), new Suppress(), new Festify(), new NewEvent()};
+			new DumpLog(), new Annoy(), new Suppress(), new Festify(), new NewEvent(), new Invite(), new Proof()};
 
 
 	@Override

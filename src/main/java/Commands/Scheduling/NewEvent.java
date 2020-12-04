@@ -19,7 +19,7 @@ public class NewEvent extends ServerCommand {
 	private final static SimpleDateFormat timeFormatter = new SimpleDateFormat("hh:mm:a", Locale.ENGLISH);
 
 	public NewEvent() {
-		super("$newevent", false, true);
+		super("$newevent");
 	}
 
 	@Override
@@ -48,6 +48,13 @@ public class NewEvent extends ServerCommand {
 		int participants = Integer.parseInt(messagePieces[2]);
 
 		Event event = new Event(date, name, messageEvent, participants);
+
+//		Event event = null;
+//		try {
+//			event = new Event(timeFormatter.parse("7:00:pm"), "testEvent", messageEvent, 2);
+//		} catch (ParseException e) {
+//			e.printStackTrace();
+//		}
 		logger.log(Level.FINE, event.toString());
 		EventCoordinator.addEvent(event);
 	}

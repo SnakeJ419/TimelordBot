@@ -1,5 +1,6 @@
-package Commands;
+package Commands.meme;
 
+import Commands.ServerCommand;
 import net.dv8tion.jda.api.entities.User;
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
 
@@ -11,7 +12,7 @@ import java.io.IOException;
 import java.net.URL;
 import java.util.logging.Level;
 
-public class DabCommand extends ServerCommand{
+public class DabCommand extends ServerCommand {
 	public DabCommand() {
 		super("$yeet");
 	}

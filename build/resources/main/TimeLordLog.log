@@ -782,3 +782,75 @@ or
 [36m[2020-12-02 17:36:12] [Commands.timezones.TimeConversion] [INFO][37m - User: [Xeneres] Channel: [lfg] Guild: [Jew Meets Dragon][0m
 [36m[2020-12-02 17:36:12] [Commands.Scheduling.NewEvent] [INFO][37m - User: [Xeneres] Channel: [lfg] Guild: [Jew Meets Dragon][0m
 [37m[2020-12-02 17:36:12] [Commands.Scheduling.NewEvent] [FINE][37m - Event [last_wish] at [Wed Dec 02 19:00:00 PST 2020] for up to [6] participants[0m
+[36m[2020-12-03 13:48:30] [Commands.Util.Clear] [INFO][37m - User: [thoughtslay3r] Channel: [general] Guild: [Jew Meets Dragon][0m
+[37m[2020-12-03 13:48:30] [Commands.Util.Clear] [FINE][37m - Removed Message: [784174256861741106] Content: [$clear 1] From: [unknown][0m
+[37m[2020-12-03 13:48:30] [Commands.Util.Clear] [FINE][37m - Removed Message: [784174221718454342] Content: [add a space] From: [Cheermeister SnakeJ][0m
+[36m[2020-12-03 13:48:40] [Commands.Util.Clear] [INFO][37m - User: [thoughtslay3r] Channel: [general] Guild: [Jew Meets Dragon][0m
+[37m[2020-12-03 13:48:40] [Commands.Util.Clear] [FINE][37m - Removed Message: [784174297810993182] Content: [$clear 4] From: [unknown][0m
+[37m[2020-12-03 13:48:40] [Commands.Util.Clear] [FINE][37m - Removed Message: [784174282875207740] Content: [] From: [?Festive The Time Lord?][0m
+[37m[2020-12-03 13:48:40] [Commands.Util.Clear] [FINE][37m - Removed Message: [784174281981558794] Content: [$proof] From: [unknown][0m
+[37m[2020-12-03 13:48:40] [Commands.Util.Clear] [FINE][37m - Removed Message: [784174266588594226] Content: [o] From: [unknown][0m
+[37m[2020-12-03 13:48:40] [Commands.Util.Clear] [FINE][37m - Removed Message: [784174189317193748] Content: [$clear1] From: [unknown][0m
+[36m[2020-12-03 13:49:04] [Commands.Util.ClearTo] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [Jew Meets Dragon][0m
+[37m[2020-12-03 13:49:05] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [784174400357531678] Content: [$clearto 784174036807843840] From: [Cheermeister SnakeJ][0m
+[37m[2020-12-03 13:49:05] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [784174343592607804] Content: [to threaten] From: [Cheermeister SnakeJ][0m
+[37m[2020-12-03 13:49:05] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [784174334713004032] Content: [\$clear 1] From: [Cheermeister SnakeJ][0m
+[37m[2020-12-03 13:49:05] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [784174320044736553] Content: [weve also talked about using] From: [Cheermeister SnakeJ][0m
+[37m[2020-12-03 13:49:05] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [784174128730603530] Content: [] From: [?Festive The Time Lord?][0m
+[37m[2020-12-03 13:49:05] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [784174127614394398] Content: [$proof] From: [Cheermeister SnakeJ][0m
+[37m[2020-12-03 13:49:05] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [784174036807843840] Content: [$proof] From: [Cheermeister SnakeJ][0m
+[36m[2020-12-03 14:00:18] [Commands.timezones.TimeConversion] [INFO][37m - User: [?? ?] Channel: [general] Guild: [Jew Meets Dragon][0m
+[36m[2020-12-03 14:06:54] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [lfg] Guild: [Jew Meets Dragon][0m
+[36m[2020-12-03 14:06:54] [Commands.Scheduling.NewEvent] [INFO][37m - User: [SnakeJ419] Channel: [lfg] Guild: [Jew Meets Dragon][0m
+[37m[2020-12-03 14:06:54] [Commands.Scheduling.NewEvent] [FINE][37m - Formatting error in received message, canceling request[0m
+[36m[2020-12-03 14:07:05] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [lfg] Guild: [Jew Meets Dragon][0m
+[36m[2020-12-03 14:07:05] [Commands.Scheduling.NewEvent] [INFO][37m - User: [SnakeJ419] Channel: [lfg] Guild: [Jew Meets Dragon][0m
+[37m[2020-12-03 14:07:05] [Commands.Scheduling.NewEvent] [FINE][37m - Event [dsc-triumphs] at [Fri Dec 04 21:00:00 PST 2020] for up to [6] participants[0m
+[36m[2020-12-03 14:32:57] [Commands.Util.ClearTo] [INFO][37m - User: [SnakeJ419] Channel: [lfg] Guild: [Jew Meets Dragon][0m
+[37m[2020-12-03 14:32:57] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [784185440173162511] Content: [$clearto 784178885528256532] From: [Cheermeister SnakeJ][0m
+[37m[2020-12-03 14:32:57] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [784185344190578728] Content: [soooo] From: [unknown][0m
+[37m[2020-12-03 14:32:57] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [784185181216309258] Content: [soooo] From: [Cheermeister SnakeJ][0m
+[37m[2020-12-03 14:32:57] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [784185161327050752] Content: [but hes not working tmrw] From: [Cheermeister SnakeJ][0m
+[37m[2020-12-03 14:32:57] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [784185117199040554] Content: [well I was og thinking so chase could do it] From: [Cheermeister SnakeJ][0m
+[37m[2020-12-03 14:32:57] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [784184713728229428] Content: [for lucid and Jay doe...] From: [unknown][0m
+[37m[2020-12-03 14:32:57] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [784184692450525236] Content: [sleep is for the week] From: [unknown][0m
+[37m[2020-12-03 14:32:57] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [784184631637311510] Content: [nahh] From: [unknown][0m
+[37m[2020-12-03 14:32:57] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [784184602108493865] Content: [isn't that a bit late] From: [unknown][0m
+[37m[2020-12-03 14:32:57] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [784178933271625779] Content: [] From: [?Festive The Time Lord?][0m
+[37m[2020-12-03 14:32:57] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [784178932114784289] Content: [Converted Times: 9:00pm pst; 10:00pm mst; 11:00pm cst; 12:00pm est] From: [?Festive The Time Lord?][0m
+[37m[2020-12-03 14:32:57] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [784178931669794857] Content: [$newevent dsc-triumphs 6 9:00pm dec-4] From: [Cheermeister SnakeJ][0m
+[37m[2020-12-03 14:32:57] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [784178886904512553] Content: [Error with the formatting of your message, Message should be in the format of:
+`$newevent <event_name> <max_participants> <hh:mma>`
+or
+`$newevent <event_name> <max_participants> <hh:mma> <MMM-dd>`] From: [?Festive The Time Lord?][0m
+[37m[2020-12-03 14:32:57] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [784178886530564146] Content: [Converted Times: 9:00pm pst; 10:00pm mst; 11:00pm cst; 12:00pm est] From: [?Festive The Time Lord?][0m
+[37m[2020-12-03 14:32:57] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [784178885528256532] Content: [$newevent dsc-triumphs 6 9:00pm 12-4] From: [Cheermeister SnakeJ][0m
+[36m[2020-12-03 14:33:28] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [lfg] Guild: [Jew Meets Dragon][0m
+[36m[2020-12-03 14:33:28] [Commands.Scheduling.NewEvent] [INFO][37m - User: [SnakeJ419] Channel: [lfg] Guild: [Jew Meets Dragon][0m
+[37m[2020-12-03 14:33:28] [Commands.Scheduling.NewEvent] [FINE][37m - Event [dsc-triumph] at [Fri Dec 04 16:00:00 PST 2020] for up to [6] participants[0m
+[36m[2020-12-03 16:05:18] [Commands.timezones.TimeConversion] [INFO][37m - User: [GrandLucidity] Channel: [destiny] Guild: [Jew Meets Dragon][0m
+[36m[2020-12-03 16:06:02] [Commands.timezones.TimeConversion] [INFO][37m - User: [Xeneres] Channel: [destiny] Guild: [Jew Meets Dragon][0m
+[36m[2020-12-04 19:13:09] [Commands.Util.Clear] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [Woah, Nice Cock][0m
+[37m[2020-12-04 19:13:09] [Commands.Util.Clear] [FINE][37m - Removed Message: [784618342597918730] Content: [$clear 3] From: [SnakeJ419][0m
+[37m[2020-12-04 19:13:09] [Commands.Util.Clear] [FINE][37m - Removed Message: [784618317620576316] Content: [$clear 2] From: [SnakeJ419][0m
+[37m[2020-12-04 19:13:09] [Commands.Util.Clear] [FINE][37m - Removed Message: [784618289229070337] Content: [$dndnick] From: [SnakeJ419][0m
+[37m[2020-12-04 19:13:09] [Commands.Util.Clear] [FINE][37m - Removed Message: [784618247920025620] Content: [$dndnick] From: [SnakeJ419][0m
+[36m[2020-12-04 19:13:13] [Commands.dnd.DNDNick] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [Woah, Nice Cock][0m
+[32m[2020-12-04 19:13:13] [Commands.dnd.DNDNick] [CONFIG][37m - {326415273827762176,<null>}[0m
+[37m[2020-12-04 19:13:13] [Commands.dnd.DNDNick] [FINE][37m - Changed: [SnakeJ419] to: [GodOfTheWorld][0m
+[32m[2020-12-04 19:13:13] [Commands.dnd.DNDNick] [CONFIG][37m - {297190923551506432,<null>}[0m
+[37m[2020-12-04 19:13:13] [Commands.dnd.DNDNick] [FINE][37m - Changed: [Lawlerhat] to: [Nalzyr][0m
+[32m[2020-12-04 19:13:13] [Commands.dnd.DNDNick] [CONFIG][37m - {250776388984897536,?Festive Conar?}[0m
+[37m[2020-12-04 19:13:13] [Commands.dnd.DNDNick] [FINE][37m - Changed: [?Festive Conar?] to: [Fawn][0m
+[32m[2020-12-04 19:13:13] [Commands.dnd.DNDNick] [CONFIG][37m - {204436639072780299,?Festive Chaun Deetle?}[0m
+[37m[2020-12-04 19:13:13] [Commands.dnd.DNDNick] [FINE][37m - Changed: [?Festive Chaun Deetle?] to: [Vladimir][0m
+[36m[2020-12-04 19:13:56] [Commands.dnd.ResetNick] [INFO][37m - User: [SnakeJ419] Channel: [bots] Guild: [Woah, Nice Cock][0m
+[37m[2020-12-04 19:13:56] [Commands.dnd.ResetNick] [FINE][37m - Changed: [GodOfTheWorld] to: [][0m
+[37m[2020-12-04 19:13:56] [Commands.dnd.ResetNick] [FINE][37m - Changed: [Nalzyr] to: [][0m
+[37m[2020-12-04 19:13:56] [Commands.dnd.ResetNick] [FINE][37m - Changed: [Fawn] to: [?Festive Conar?][0m
+[37m[2020-12-04 19:13:57] [Commands.dnd.ResetNick] [FINE][37m - Changed: [Vladimir] to: [?Festive Chaun Deetle?][0m
+[36m[2020-12-05 00:01:56] [Commands.timezones.TimeConversion] [INFO][37m - User: [caby_baby] Channel: [lfg] Guild: [Jew Meets Dragon][0m
+[36m[2020-12-05 00:01:56] [Commands.Scheduling.NewEvent] [INFO][37m - User: [caby_baby] Channel: [lfg] Guild: [Jew Meets Dragon][0m
+[37m[2020-12-05 00:01:56] [Commands.Scheduling.NewEvent] [FINE][37m - Event [turn_fae_into_a_hardcore_destiny_tuber_with_help_from_vince] at [Sat Dec 05 12:00:00 PST 2020] for up to [3] participants[0m
+[36m[2020-12-05 02:42:29] [Commands.timezones.TimeConversion] [INFO][37m - User: [Feanaer] Channel: [bots] Guild: [Jew Meets Dragon][0m
+[36m[2020-12-05 09:34:42] [Commands.timezones.TimeConversion] [INFO][37m - User: [FunDome] Channel: [memes-bc-thats-cool] Guild: [Jew Meets Dragon][0m

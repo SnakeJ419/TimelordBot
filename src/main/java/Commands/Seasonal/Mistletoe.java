@@ -13,6 +13,7 @@ import java.util.ArrayList;
 public class Mistletoe extends ServerCommand {
 	private final static ArrayList<Long> channelIDs = new ArrayList<>();
 	private final static ArrayList<Boolean> channelStatus = new ArrayList<>();
+	private final static String mistleEscape = " ";
 
 	public Mistletoe() {
 		super("$mistletoe", false, false);
@@ -51,11 +52,11 @@ public class Mistletoe extends ServerCommand {
 
 		@Override
 		public void onMessageReceived(@NotNull MessageReceivedEvent event) {
-			if(event.getChannel() == trappedChannel && event.getAuthor().getIdLong() != 733407709130391582L){
+			if(event.getChannel() == trappedChannel && event.getAuthor().getIdLong() != 733407709130391582L && !event.getMessage().getContentRaw().toLowerCase().contains("\\.")){
 				if(userOne == null){
 					memberOne = event.getMember();
 					userOne = event.getAuthor();
-				} else if(userOne != event.getAuthor()){
+				} else if(!memberOne.getId().equals(event.getMember().getId())){
 					channelStatus.set(index, false);
 					event.getJDA().removeEventListener(this);
 

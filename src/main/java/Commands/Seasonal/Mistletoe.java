@@ -1,6 +1,7 @@
 package Commands.Seasonal;
 
 import Commands.ServerCommand;
+import net.dv8tion.jda.api.entities.Activity;
 import net.dv8tion.jda.api.entities.Member;
 import net.dv8tion.jda.api.entities.MessageChannel;
 import net.dv8tion.jda.api.entities.User;
@@ -38,29 +39,40 @@ public class Mistletoe extends ServerCommand {
 	}
 
 	private static class MistletoeListener extends ListenerAdapter{
+		private final static String[] options = new String[]{"\\", ".", ",", "*", ")", "()", "%"};
 		private final MessageChannel trappedChannel;
 		private final Member placer;
 		private final int index;
 		private Member memberOne;
 		private User userOne;
+		private static int selectedOption = -1;
 
 		protected MistletoeListener(MessageChannel trappedChannel, Member placer, int index){
 			this.trappedChannel = trappedChannel;
 			this.placer = placer;
 			this.index = index;
+			if(selectedOption == -1){
+				selectedOption = (int) (Math.random() * options.length - 1);
+				trappedChannel.getJDA().getPresence().setActivity(Activity.of(Activity.ActivityType.DEFAULT, "with half a ship" + options[selectedOption]));
+			}
 		}
 
 		@Override
 		public void onMessageReceived(@NotNull MessageReceivedEvent event) {
-			if(event.getChannel() == trappedChannel && event.getAuthor().getIdLong() != 733407709130391582L && !event.getMessage().getContentRaw().toLowerCase().contains("\\.")){
-				if(userOne == null){
-					memberOne = event.getMember();
-					userOne = event.getAuthor();
-				} else if(!memberOne.getId().equals(event.getMember().getId())){
-					channelStatus.set(index, false);
-					event.getJDA().removeEventListener(this);
+			if(event.getChannel() == trappedChannel && event.getAuthor().getIdLong() != 733407709130391582L){
+				if(!event.getMessage().getContentRaw().toLowerCase().contains("\\" + options[selectedOption])) {
+					if (userOne == null) {
+						memberOne = event.getMember();
+						userOne = event.getAuthor();
+					} else if (!memberOne.getId().equals(event.getMember().getId())) {
+						channelStatus.set(index, false);
+						event.getJDA().removeEventListener(this);
 
-					trappedChannel.sendMessage(memberOne.getEffectiveName() + " was kissed by " + event.getMember().getEffectiveName() + " under the mistletoe placed by " + placer.getEffectiveName() + '!').queue();
+						trappedChannel.sendMessage(memberOne.getEffectiveName() + " was kissed by " + event.getMember().getEffectiveName() + " under the mistletoe placed by " + placer.getEffectiveName() + '!').queue();
+					}
+				} else {
+					selectedOption = (int) (Math.random() * options.length - 1);
+					event.getJDA().getPresence().setActivity(Activity.of(Activity.ActivityType.DEFAULT, "with half a ship" + options[selectedOption]));
 				}
 			}
 		}

@@ -988,3 +988,80 @@ or
 [37m[2020-12-11 12:44:27] [Commands.Seasonal.Festify] [FINE][37m - Changed: [CLUE] to: [🕯Festive CLUE🕯][0m
 [36m[2020-12-11 20:02:35] [Commands.meme.DabCommand] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [Jew Meets Dragon][0m
 [36m[2020-12-11 20:08:11] [Commands.meme.DabCommand] [INFO][37m - User: [caby_baby] Channel: [general] Guild: [Jew Meets Dragon][0m
+[36m[2020-12-11 20:17:26] [Commands.timezones.TimeConversion] [INFO][37m - User: [caby_baby] Channel: [general] Guild: [Jew Meets Dragon][0m
+[36m[2020-12-11 20:19:07] [Commands.timezones.TimeConversion] [INFO][37m - User: [caby_baby] Channel: [general] Guild: [Jew Meets Dragon][0m
+[36m[2020-12-11 20:19:07] [Commands.Scheduling.NewEvent] [INFO][37m - User: [caby_baby] Channel: [general] Guild: [Jew Meets Dragon][0m
+[37m[2020-12-11 20:19:07] [Commands.Scheduling.NewEvent] [FINE][37m - Event [totally_not_a_mutiny_lead_by_vincent] at [Fri Dec 11 12:00:00 PST 2020] for up to [40] participants[0m
+[36m[2020-12-11 20:19:25] [Commands.Util.Clear] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [Jew Meets Dragon][0m
+[37m[2020-12-11 20:19:25] [Commands.Util.Clear] [FINE][37m - Removed Message: [787171730669830154] Content: [$clear 2] From: [Cheermeister SnakeJ][0m
+[37m[2020-12-11 20:19:25] [Commands.Util.Clear] [FINE][37m - Removed Message: [787171656438644776] Content: [] From: [?Festive The Time Lord?][0m
+[37m[2020-12-11 20:19:25] [Commands.Util.Clear] [FINE][37m - Removed Message: [787171655167246367] Content: [Converted Times: 12:00pm pst; 1:00am mst; 2:00am cst; 3:00am est] From: [?Festive The Time Lord?][0m
+[36m[2020-12-11 20:19:29] [Commands.Util.Clear] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [Jew Meets Dragon][0m
+[37m[2020-12-11 20:19:29] [Commands.Util.Clear] [FINE][37m - Removed Message: [787171748109484042] Content: [$clear 1] From: [Cheermeister SnakeJ][0m
+[37m[2020-12-11 20:19:29] [Commands.Util.Clear] [FINE][37m - Removed Message: [787171654669303808] Content: [$newevent Totally_not_a_mutiny_lead_by_vincent 40 0:00am] From: [unknown][0m
+[36m[2020-12-12 22:07:41] [Commands.timezones.TimeConversion] [INFO][37m - User: [GrandLucidity] Channel: [general] Guild: [Jew Meets Dragon][0m
+[36m[2020-12-12 22:10:49] [Commands.timezones.TimeConversion] [INFO][37m - User: [caby_baby] Channel: [general] Guild: [Jew Meets Dragon][0m
+[36m[2020-12-14 19:30:33] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [lfg] Guild: [Jew Meets Dragon][0m
+[36m[2020-12-14 19:30:33] [Commands.Scheduling.NewEvent] [INFO][37m - User: [SnakeJ419] Channel: [lfg] Guild: [Jew Meets Dragon][0m
+[37m[2020-12-14 19:30:33] [Commands.Scheduling.NewEvent] [FINE][37m - Event [dsc_raid_lfg_for_rest] at [Mon Dec 14 20:30:00 PST 2020] for up to [6] participants[0m
+[36m[2020-12-15 09:31:49] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [destiny] Guild: [Jew Meets Dragon][0m
+[36m[2020-12-15 09:32:17] [Commands.timezones.TimeConversion] [INFO][37m - User: [Xeneres] Channel: [lfg] Guild: [Jew Meets Dragon][0m
+[36m[2020-12-15 09:32:17] [Commands.Scheduling.NewEvent] [INFO][37m - User: [Xeneres] Channel: [lfg] Guild: [Jew Meets Dragon][0m
+[37m[2020-12-15 09:32:17] [Commands.Scheduling.NewEvent] [FINE][37m - Event [lucidsaidtoraidsoyouknowwhatthatmeans] at [Tue Dec 15 16:30:00 PST 2020] for up to [6] participants[0m
+[36m[2020-12-16 10:00:33] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [girl-problems] Guild: [Jew Meets Dragon][0m
+[36m[2020-12-16 10:00:42] [Commands.Util.Clear] [INFO][37m - User: [SnakeJ419] Channel: [girl-problems] Guild: [Jew Meets Dragon][0m
+[37m[2020-12-16 10:00:42] [Commands.Util.Clear] [FINE][37m - Removed Message: [788827969355120680] Content: [$clear 1] From: [Cheermeister SnakeJ][0m
+[37m[2020-12-16 10:00:42] [Commands.Util.Clear] [FINE][37m - Removed Message: [788827932977397800] Content: [Converted Times: 2:00am pst; 3:00am mst; 4:00am cst; 5:00am est] From: [?Festive The Time Lord?][0m
+[36m[2020-12-16 11:34:00] [Commands.timezones.TimeConversion] [INFO][37m - User: [Xeneres] Channel: [destiny] Guild: [Jew Meets Dragon][0m
+[36m[2020-12-16 17:36:01] [Commands.timezones.TimeConversion] [INFO][37m - User: [?Spymax?] Channel: [lfg] Guild: [JMD][0m
+[36m[2020-12-16 17:36:01] [Commands.Scheduling.NewEvent] [INFO][37m - User: [?Spymax?] Channel: [lfg] Guild: [JMD][0m
+[37m[2020-12-16 17:36:01] [Commands.Scheduling.NewEvent] [FINE][37m - Event [red_rover_raid_time] at [Wed Dec 16 18:30:00 PST 2020] for up to [6] participants[0m
+[36m[2020-12-17 20:26:51] [Commands.Util.Clear] [INFO][37m - User: [SnakeJ419] Channel: [bots] Guild: [JMD][0m
+[37m[2020-12-17 20:26:51] [Commands.Util.Clear] [FINE][37m - Removed Message: [789347931954085940] Content: [$clear 2] From: [Cheermeister SnakeJ][0m
+[37m[2020-12-17 20:26:51] [Commands.Util.Clear] [FINE][37m - Removed Message: [789347890509905970] Content: [!play https://open.spotify.com/playlist/02dAKOgWXU5CJe4iQ88tT8?si=zz4VVBEYR1WRGVCpQop_qw] From: [Cheermeister SnakeJ][0m
+[37m[2020-12-17 20:26:51] [Commands.Util.Clear] [FINE][37m - Removed Message: [789347877511364658] Content: [;play https://open.spotify.com/playlist/02dAKOgWXU5CJe4iQ88tT8?si=zz4VVBEYR1WRGVCpQop_qw] From: [Cheermeister SnakeJ][0m
+[36m[2020-12-17 20:26:56] [Commands.timezones.TimeConversion] [INFO][37m - User: [Rythm] Channel: [bots] Guild: [JMD][0m
+[36m[2020-12-18 12:13:31] [Commands.Seasonal.Festify] [INFO][37m - User: [SnakeJ419] Channel: [bots] Guild: [JMD][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive Vincent.gg?] to: [?Festive ?Festive Vincent.gg??][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive Monday?] to: [?Festive ?Festive Monday??][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive Conar?] to: [?Festive ?Festive Conar??][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive Pando?] to: [?Festive ?Festive Pando??][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive thoughtsly3r ?] to: [?Festive ?Festive thoughtsly3r ??][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive Charlemagne?] to: [?Festive ?Festive Charlemagne??][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive DiceParser?] to: [?Festive ?Festive DiceParser??][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive Rythm?] to: [?Festive ?Festive Rythm??][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [Ethan 1] to: [?Festive Ethan 1?][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive ServerIPManager?] to: [?Festive ?Festive ServerIPManager??][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive Vitamin P?] to: [?Festive ?Festive Vitamin P??][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive TinCanKnight?] to: [?Festive ?Festive TinCanKnight??][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [ConDog] to: [?Festive ConDog?][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive FunDome?] to: [?Festive ?Festive FunDome??][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive The Timelord ?] to: [?Festive ?Festive The Timelord ??][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [☃Festive ShaneB☃] to: [?Festive ☃Festive ShaneB☃?][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive Andrew_?] to: [?Festive ?Festive Andrew_??][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [timmothyeag] to: [?Festive timmothyeag?][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [☃Festive jackvrown☃] to: [?Festive ☃Festive jackvrown☃?][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive ?? ??] to: [?Festive ?Festive ?? ???][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive Spacey?] to: [?Festive ?Festive Spacey??][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [caby_baby] to: [?Festive caby_baby?][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive therealconro?] to: [?Festive ?Festive therealconro??][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive Goldfishy?] to: [?Festive ?Festive Goldfishy??][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive The Time Lord?] to: [?Festive ?Festive The Time Lord??][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [Cheermeister SnakeJ] to: [?Festive Cheermeister SnakeJ?][0m
+[33m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [WARNING][37m - Unable to modify admin: [Cheermeister SnakeJ], proceeding[0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [smallest penis ethan] to: [?Festive smallest penis ethan?][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive Nuklite?] to: [☃Festive ?Festive Nuklite?☃][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive Chaun Deetle?] to: [?Festive ?Festive Chaun Deetle??][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive Lavar Ballsack?] to: [?Festive ?Festive Lavar Ballsack??][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive CodeFury?] to: [?Festive ?Festive CodeFury??][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [Ethan 2] to: [☃Festive Ethan 2☃][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [Ethan 3] to: [?Festive Ethan 3?][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive GrandLucidity?] to: [?Festive ?Festive GrandLucidity??][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive ?Festive DerpyShark??] to: [?Festive ?Festive ?Festive DerpyShark???][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive ?Festive nwm247??] to: [☃Festive ?Festive ?Festive nwm247??☃][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive ?Festive dc2man??] to: [?Festive ?Festive ?Festive dc2man???][0m
+[37m[2020-12-18 12:13:32] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive Ethan 4 ?] to: [☃Festive ?Festive Ethan 4 ?☃][0m
+[36m[2020-12-18 12:45:34] [Commands.timezones.TimeConversion] [INFO][37m - User: [?Spymax?] Channel: [lfg] Guild: [JMD][0m
+[36m[2020-12-18 12:45:34] [Commands.Scheduling.NewEvent] [INFO][37m - User: [?Spymax?] Channel: [lfg] Guild: [JMD][0m
+[37m[2020-12-18 12:45:34] [Commands.Scheduling.NewEvent] [FINE][37m - Event [dsc??????] at [Fri Dec 18 15:00:00 PST 2020] for up to [6] participants[0m
+[36m[2020-12-18 15:47:22] [Commands.timezones.TimeConversion] [INFO][37m - User: [GrandLucidity] Channel: [lfg] Guild: [JMD][0m

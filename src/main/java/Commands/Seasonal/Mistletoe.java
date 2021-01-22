@@ -17,7 +17,7 @@ public class Mistletoe extends ServerCommand {
 	private final static String mistleEscape = " ";
 
 	public Mistletoe() {
-		super("$mistletoe", false, false);
+		super("$mistletoe", false, true);
 	}
 
 	@Override

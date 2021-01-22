@@ -1065,3 +1065,594 @@ or
 [36m[2020-12-18 12:45:34] [Commands.Scheduling.NewEvent] [INFO][37m - User: [?Spymax?] Channel: [lfg] Guild: [JMD][0m
 [37m[2020-12-18 12:45:34] [Commands.Scheduling.NewEvent] [FINE][37m - Event [dsc??????] at [Fri Dec 18 15:00:00 PST 2020] for up to [6] participants[0m
 [36m[2020-12-18 15:47:22] [Commands.timezones.TimeConversion] [INFO][37m - User: [GrandLucidity] Channel: [lfg] Guild: [JMD][0m
+[36m[2020-12-19 22:17:02] [Commands.dnd.DNDNick] [INFO][37m - User: [SnakeJ419] Channel: [quest-for-the-gforce-hamster] Guild: [Woah, Nice Cock][0m
+[32m[2020-12-19 22:17:02] [Commands.dnd.DNDNick] [CONFIG][37m - {326415273827762176,<null>}[0m
+[37m[2020-12-19 22:17:02] [Commands.dnd.DNDNick] [FINE][37m - Changed: [SnakeJ419] to: [GodOfTheWorld][0m
+[32m[2020-12-19 22:17:02] [Commands.dnd.DNDNick] [CONFIG][37m - {250776388984897536,?Festive Conar?}[0m
+[37m[2020-12-19 22:17:02] [Commands.dnd.DNDNick] [FINE][37m - Changed: [?Festive Conar?] to: [Fawn][0m
+[32m[2020-12-19 22:17:02] [Commands.dnd.DNDNick] [CONFIG][37m - {204436639072780299,<null>}[0m
+[37m[2020-12-19 22:17:02] [Commands.dnd.DNDNick] [FINE][37m - Changed: [Chaun Deetle] to: [Vladimir][0m
+[32m[2020-12-19 22:17:02] [Commands.dnd.DNDNick] [CONFIG][37m - {297190923551506432,<null>}[0m
+[37m[2020-12-19 22:17:02] [Commands.dnd.DNDNick] [FINE][37m - Changed: [Lawlerhat] to: [Nalzyr][0m
+[36m[2020-12-19 23:36:30] [Commands.Util.Clear] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [JMD][0m
+[37m[2020-12-19 23:36:30] [Commands.Util.Clear] [FINE][37m - Removed Message: [790120430962606111] Content: [$clear 1] From: [Cheermeister SnakeJ][0m
+[37m[2020-12-19 23:36:30] [Commands.Util.Clear] [FINE][37m - Removed Message: [790120386540339210] Content: [] From: [unknown][0m
+[36m[2020-12-20 00:36:20] [Commands.dnd.ResetNick] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [Woah, Nice Cock][0m
+[37m[2020-12-20 00:36:21] [Commands.dnd.ResetNick] [FINE][37m - Changed: [GodOfTheWorld] to: [][0m
+[37m[2020-12-20 00:36:21] [Commands.dnd.ResetNick] [FINE][37m - Changed: [Fawn] to: [?Festive Conar?][0m
+[37m[2020-12-20 00:36:21] [Commands.dnd.ResetNick] [FINE][37m - Changed: [Vladimir] to: [][0m
+[37m[2020-12-20 00:36:21] [Commands.dnd.ResetNick] [FINE][37m - Changed: [Nalzyr] to: [][0m
+[36m[2020-12-25 12:39:09] [Commands.timezones.TimeConversion] [INFO][37m - User: [thoughtslay3r] Channel: [destiny] Guild: [JMD][0m
+[36m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [INFO][37m - User: [SnakeJ419] Channel: [bots] Guild: [JMD][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive ?Festive Vincent.gg??] to: [Vincent.gg][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [Monday] to: [Monday][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive ?Festive Conar??] to: [Conar][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive ?Festive Pando??] to: [Pando][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [thoughtslay3r] to: [thoughtslay3r][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [Charles] to: [Charlemagne][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive ?Festive DiceParser??] to: [DiceParser][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive Rythm??] to: [Rythm][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive spyMax Spy?] to: [?Spymax?][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive ServerIPManager?] to: [ServerIPManager][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?fEsTIvE Vitamin P?] to: [Vitamin P][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive ?Festive TinCanKnight??] to: [TinCanKnight][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive ConDog?] to: [ConDog][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive ?Festive FunDome??] to: [FunDome][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive Fae?] to: [Feanaer][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive ☃Festive ShaneB☃?] to: [ShaneB][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive ?Festive Andrew_??] to: [Andrew_][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive timmothyeag?] to: [timmothyeag][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [☃Festive jackvrown☃] to: [jackvrown][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive ?Festive ?? ???] to: [?? ?][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive ?Festive Spacey??] to: [Spacey][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive caby_baby?] to: [caby_baby][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive ?Festive therealconro??] to: [therealconro][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?fEsTIvE Goldfishy?] to: [Goldfishy][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive The Time Lord?] to: [The Time Lord][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [SnakeJ419] to: [SnakeJ419][0m
+[33m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [WARNING][37m - Unable to modify admin: [SnakeJ419], proceeding[0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [fEsTIvE revolt] to: [Lawlerhat][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [☃Festive ?Festive Nuklite?☃] to: [Nuklite][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive ?Festive Chaun Deetle??] to: [Chaun Deetle][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive Lavar Ballsack?] to: [Lavar Ballsack][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive ?Festive CodeFury??] to: [CodeX][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [the slightly worse timelord] to: [Xeneres][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [NaCl] to: [NaCl][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?fEsTIvE Ethan 3?] to: [SirEthan][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive GrandLucidity?] to: [GrandLucidity][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive ?Festive DerpyShark??] to: [DerpyShark][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive ?Festive nwm247??] to: [nwm247][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?fEsTIvE dc2man??] to: [dc2man][0m
+[37m[2020-12-25 14:28:17] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive Ethan 4 ?] to: [CLUE][0m
+[36m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [INFO][37m - User: [SnakeJ419] Channel: [bots] Guild: [JMD][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [Vincent.gg] to: [?Festive Vincent.gg?][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [Monday] to: [?Festive Monday?][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [Conar] to: [☃Festive Conar☃][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [Pando] to: [?Festive Pando?][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [thoughtslay3r] to: [?Festive thoughtslay3r?][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [Charlemagne] to: [☃Festive Charlemagne☃][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [DiceParser] to: [?Festive DiceParser?][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [Rythm] to: [?Festive Rythm?][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Spymax?] to: [?Festive ?Spymax??][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [ServerIPManager] to: [?Festive ServerIPManager?][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?fEsTIvE Vitamin P?] to: [?Festive ?fEsTIvE Vitamin P??][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive ?Festive TinCanKnight??] to: [?Festive ?Festive ?Festive TinCanKnight???][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive ConDog?] to: [?Festive ?Festive ConDog??][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive ?Festive FunDome??] to: [?Festive ?Festive ?Festive FunDome???][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive Fae?] to: [?Festive ?Festive Fae??][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive ☃Festive ShaneB☃?] to: [☃Festive ?Festive ☃Festive ShaneB☃?☃][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive ?Festive Andrew_??] to: [?Festive ?Festive ?Festive Andrew_???][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive timmothyeag?] to: [?Festive ?Festive timmothyeag??][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [☃Festive jackvrown☃] to: [☃Festive ☃Festive jackvrown☃☃][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive ?Festive ?? ???] to: [?Festive ?Festive ?Festive ?? ????][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive ?Festive Spacey??] to: [?Festive ?Festive ?Festive Spacey???][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive caby_baby?] to: [?Festive ?Festive caby_baby??][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive ?Festive therealconro??] to: [?Festive ?Festive ?Festive therealconro???][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?fEsTIvE Goldfishy?] to: [☃Festive ?fEsTIvE Goldfishy?☃][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [The Time Lord] to: [?Festive The Time Lord?][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [SnakeJ419] to: [?Festive SnakeJ419?][0m
+[33m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [WARNING][37m - Unable to modify admin: [SnakeJ419], proceeding[0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [fEsTIvE revolt] to: [?Festive fEsTIvE revolt?][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [☃Festive ?Festive Nuklite?☃] to: [?Festive ☃Festive ?Festive Nuklite?☃?][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive ?Festive Chaun Deetle??] to: [?Festive ?Festive ?Festive Chaun Deetle???][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive Lavar Ballsack?] to: [?Festive ?Festive Lavar Ballsack??][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive ?Festive CodeFury??] to: [?Festive ?Festive ?Festive CodeFury???][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [the slightly worse timelord] to: [?Festive the slightly worse timelord?][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [NaCl] to: [?Festive NaCl?][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?fEsTIvE Ethan 3?] to: [?Festive ?fEsTIvE Ethan 3??][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive GrandLucidity?] to: [?Festive ?Festive GrandLucidity??][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive ?Festive DerpyShark??] to: [?Festive ?Festive ?Festive DerpyShark???][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive ?Festive nwm247??] to: [?Festive ?Festive ?Festive nwm247???][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?fEsTIvE dc2man??] to: [?Festive ?fEsTIvE dc2man???][0m
+[37m[2020-12-25 14:28:22] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive Ethan 4 ?] to: [?Festive ?Festive Ethan 4 ??][0m
+[36m[2020-12-25 14:28:25] [Commands.Util.Clean] [INFO][37m - User: [SnakeJ419] Channel: [bots] Guild: [JMD][0m
+[37m[2020-12-25 14:28:25] [Commands.Util.Clean] [FINE][37m - Removed Message: [792156819148767242] Content: [SnakeJ419 made the server festive!] From: [The Time Lord][0m
+[37m[2020-12-25 14:28:25] [Commands.Util.Clean] [FINE][37m - Removed Message: [792156818218287144] Content: [$festify] From: [SnakeJ419][0m
+[37m[2020-12-25 14:28:25] [Commands.Util.Clean] [FINE][37m - Removed Message: [792156799138005012] Content: [SnakeJ419 forced a reset of all nicknames] From: [The Time Lord][0m
+[37m[2020-12-25 14:28:25] [Commands.Util.Clean] [FINE][37m - Removed Message: [792156798001741866] Content: [$forcereset] From: [SnakeJ419][0m
+[36m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [INFO][37m - User: [SnakeJ419] Channel: [bots] Guild: [JMD][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [Vincent.gg] to: [Vincent.gg][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [Monday] to: [Monday][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [Conar] to: [Conar][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [Pando] to: [Pando][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [thoughtslay3r] to: [thoughtslay3r][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [Charlemagne] to: [Charlemagne][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [DiceParser] to: [DiceParser][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [Rythm] to: [Rythm][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Spymax?] to: [?Spymax?][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [ServerIPManager] to: [ServerIPManager][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [Vitamin P] to: [Vitamin P][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [TinCanKnight] to: [TinCanKnight][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [ConDog] to: [ConDog][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [FunDome] to: [FunDome][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [Feanaer] to: [Feanaer][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [ShaneB] to: [ShaneB][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [Andrew_] to: [Andrew_][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [timmothyeag] to: [timmothyeag][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [jackvrown] to: [jackvrown][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?? ?] to: [?? ?][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [Spacey] to: [Spacey][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [caby_baby] to: [caby_baby][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive ?Festive therealconro??] to: [therealconro][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?fEsTIvE Goldfishy?] to: [Goldfishy][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive The Time Lord?] to: [The Time Lord][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [SnakeJ419] to: [SnakeJ419][0m
+[33m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [WARNING][37m - Unable to modify admin: [SnakeJ419], proceeding[0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [fEsTIvE revolt] to: [Lawlerhat][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [☃Festive ?Festive Nuklite?☃] to: [Nuklite][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive ?Festive Chaun Deetle??] to: [Chaun Deetle][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive Lavar Ballsack?] to: [Lavar Ballsack][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive ?Festive CodeFury??] to: [CodeX][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [the slightly worse timelord] to: [Xeneres][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [NaCl] to: [NaCl][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?fEsTIvE Ethan 3?] to: [SirEthan][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive GrandLucidity?] to: [GrandLucidity][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive ?Festive DerpyShark??] to: [DerpyShark][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive ?Festive nwm247??] to: [nwm247][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?fEsTIvE dc2man??] to: [dc2man][0m
+[37m[2020-12-25 14:28:38] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive Ethan 4 ?] to: [CLUE][0m
+[36m[2020-12-25 14:29:09] [Commands.Seasonal.Festify] [INFO][37m - User: [SnakeJ419] Channel: [bots] Guild: [JMD][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive Vincent.gg?] to: [?Festive ?Festive Vincent.gg??][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive Monday?] to: [?Festive ?Festive Monday??][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [☃Festive Conar☃] to: [☃Festive ☃Festive Conar☃☃][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive Pando?] to: [?Festive ?Festive Pando??][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive thoughtslay3r?] to: [☃Festive ?Festive thoughtslay3r?☃][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [☃Festive Charlemagne☃] to: [?Festive ☃Festive Charlemagne☃?][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive DiceParser?] to: [?Festive ?Festive DiceParser??][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive Rythm?] to: [?Festive ?Festive Rythm??][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive ?Spymax??] to: [?Festive ?Festive ?Spymax???][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive ServerIPManager?] to: [?Festive ?Festive ServerIPManager??][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive ?fEsTIvE Vitamin P??] to: [☃Festive ?Festive ?fEsTIvE Vitamin P??☃][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [TinCanKnight] to: [?Festive TinCanKnight?][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive ?Festive ConDog??] to: [?Festive ?Festive ?Festive ConDog???][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [FunDome] to: [?Festive FunDome?][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive ?Festive Fae??] to: [?Festive ?Festive ?Festive Fae???][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [ShaneB] to: [?Festive ShaneB?][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [Andrew_] to: [?Festive Andrew_?][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?Festive ?Festive timmothyeag??] to: [?Festive ?Festive ?Festive timmothyeag???][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [jackvrown] to: [?Festive jackvrown?][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [?? ?] to: [?Festive ?? ??][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [Spacey] to: [?Festive Spacey?][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [caby_baby] to: [?Festive caby_baby?][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [therealconro] to: [?Festive therealconro?][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [Goldfishy] to: [?Festive Goldfishy?][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [The Time Lord] to: [?Festive The Time Lord?][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [SnakeJ419] to: [?Festive SnakeJ419?][0m
+[33m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [WARNING][37m - Unable to modify admin: [SnakeJ419], proceeding[0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [Lawlerhat] to: [?Festive Lawlerhat?][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [Nuklite] to: [?Festive Nuklite?][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [Chaun Deetle] to: [?Festive Chaun Deetle?][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [Lavar Ballsack] to: [?Festive Lavar Ballsack?][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [CodeX] to: [?Festive CodeX?][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [Xeneres] to: [?Festive Xeneres?][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [NaCl] to: [?Festive NaCl?][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [SirEthan] to: [?Festive SirEthan?][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [GrandLucidity] to: [?Festive GrandLucidity?][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [DerpyShark] to: [?Festive DerpyShark?][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [nwm247] to: [?Festive nwm247?][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [dc2man] to: [?Festive dc2man?][0m
+[37m[2020-12-25 14:29:10] [Commands.Seasonal.Festify] [FINE][37m - Changed: [CLUE] to: [?Festive CLUE?][0m
+[36m[2020-12-25 14:29:11] [Commands.Util.Clean] [INFO][37m - User: [SnakeJ419] Channel: [bots] Guild: [JMD][0m
+[37m[2020-12-25 14:29:11] [Commands.Util.Clean] [FINE][37m - Removed Message: [792157017279037440] Content: [SnakeJ419 made the server festive!] From: [The Time Lord][0m
+[37m[2020-12-25 14:29:11] [Commands.Util.Clean] [FINE][37m - Removed Message: [792157016700354561] Content: [$festify] From: [SnakeJ419][0m
+[37m[2020-12-25 14:29:11] [Commands.Util.Clean] [FINE][37m - Removed Message: [792156885590999049] Content: [SnakeJ419 forced a reset of all nicknames] From: [The Time Lord][0m
+[37m[2020-12-25 14:29:11] [Commands.Util.Clean] [FINE][37m - Removed Message: [792156883543785503] Content: [$forcereset] From: [SnakeJ419][0m
+[36m[2020-12-25 15:45:13] [Commands.timezones.RegisterTimezone] [INFO][37m - User: [caby_baby] Channel: [bots] Guild: [JMD][0m
+[36m[2020-12-25 16:11:29] [Commands.Util.Clear] [INFO][37m - User: [SnakeJ419] Channel: [destiny] Guild: [JMD][0m
+[37m[2020-12-25 16:11:29] [Commands.Util.Clear] [FINE][37m - Removed Message: [792182768980852756] Content: [$clear 1] From: [SnakeJ419][0m
+[37m[2020-12-25 16:11:29] [Commands.Util.Clear] [FINE][37m - Removed Message: [792182642635571200] Content: [Who?] From: [unknown][0m
+[36m[2020-12-26 11:45:58] [Commands.timezones.TimeConversion] [INFO][37m - User: [CLUE] Channel: [grandmasters] Guild: [JMD][0m
+[36m[2020-12-26 13:33:14] [Commands.timezones.RegisterTimezone] [INFO][37m - User: [Xeneres] Channel: [bots] Guild: [JMD][0m
+[36m[2020-12-26 13:33:27] [Commands.timezones.TimeConversion] [INFO][37m - User: [Xeneres] Channel: [grandmasters] Guild: [JMD][0m
+[36m[2020-12-26 14:27:02] [Commands.timezones.RegisterTimezone] [INFO][37m - User: [GrandLucidity] Channel: [bots] Guild: [JMD][0m
+[36m[2020-12-26 15:17:57] [Commands.timezones.RegisterTimezone] [INFO][37m - User: [CLUE] Channel: [bots] Guild: [JMD][0m
+[36m[2020-12-26 23:25:54] [Commands.Util.Clear] [INFO][37m - User: [thoughtslay3r] Channel: [general] Guild: [JMD][0m
+[37m[2020-12-26 23:25:54] [Commands.Util.Clear] [FINE][37m - Removed Message: [792654480864444426] Content: [$clear 4] From: [thoughtslay3r][0m
+[37m[2020-12-26 23:25:54] [Commands.Util.Clear] [FINE][37m - Removed Message: [792654458273660939] Content: [...] From: [thoughtslay3r][0m
+[37m[2020-12-26 23:25:54] [Commands.Util.Clear] [FINE][37m - Removed Message: [792654422031204412] Content: [Aw Pando 2 electric Bogaloo] From: [unknown][0m
+[37m[2020-12-26 23:25:54] [Commands.Util.Clear] [FINE][37m - Removed Message: [792654202610384906] Content: [younger] From: [unknown][0m
+[37m[2020-12-26 23:25:54] [Commands.Util.Clear] [FINE][37m - Removed Message: [792654178852929556] Content: ["!"] From: [thoughtslay3r][0m
+[36m[2020-12-26 23:52:20] [Commands.Util.Clear] [INFO][37m - User: [SnakeJ419] Channel: [bots] Guild: [JMD][0m
+[37m[2020-12-26 23:52:20] [Commands.Util.Clear] [FINE][37m - Removed Message: [792661132233932841] Content: [$clear 4] From: [SnakeJ419][0m
+[37m[2020-12-26 23:52:20] [Commands.Util.Clear] [FINE][37m - Removed Message: [792661107323568139] Content: [] From: [unknown][0m
+[37m[2020-12-26 23:52:20] [Commands.Util.Clear] [FINE][37m - Removed Message: [792661100733923330] Content: [!trials] From: [CLUE][0m
+[37m[2020-12-26 23:52:20] [Commands.Util.Clear] [FINE][37m - Removed Message: [792661082304151562] Content: [] From: [unknown][0m
+[37m[2020-12-26 23:52:20] [Commands.Util.Clear] [FINE][37m - Removed Message: [792661075630882816] Content: [!trials] From: [SnakeJ419][0m
+[36m[2020-12-27 01:19:10] [Commands.Util.Clear] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [JMD][0m
+[37m[2020-12-27 01:19:10] [Commands.Util.Clear] [FINE][37m - Removed Message: [792682984507179019] Content: [$clear 3] From: [SnakeJ419][0m
+[37m[2020-12-27 01:19:10] [Commands.Util.Clear] [FINE][37m - Removed Message: [792682969860276244] Content: [end of discussion] From: [CLUE][0m
+[37m[2020-12-27 01:19:10] [Commands.Util.Clear] [FINE][37m - Removed Message: [792682955780784148] Content: [Is that a game?] From: [unknown][0m
+[37m[2020-12-27 01:19:10] [Commands.Util.Clear] [FINE][37m - Removed Message: [792682950735036436] Content: [no one] From: [CLUE][0m
+[36m[2020-12-27 15:26:24] [Commands.Util.Clear] [INFO][37m - User: [caby_baby] Channel: [waifu-builder] Guild: [NE Splinter Cell][0m
+[37m[2020-12-27 15:26:24] [Commands.Util.Clear] [FINE][37m - Removed Message: [792896197387878440] Content: [$clear 3] From: [caby_baby][0m
+[37m[2020-12-27 15:26:24] [Commands.Util.Clear] [FINE][37m - Removed Message: [792896124050341908] Content: [$clear3] From: [caby_baby][0m
+[37m[2020-12-27 15:26:24] [Commands.Util.Clear] [FINE][37m - Removed Message: [792896060875210762] Content: [Ahhhck such ignorance] From: [caby_baby][0m
+[37m[2020-12-27 15:26:24] [Commands.Util.Clear] [FINE][37m - Removed Message: [792895939211165708] Content: [/TRIES TO IGNORE HARDER] From: [unknown][0m
+[36m[2020-12-27 15:26:41] [Commands.Util.Clear] [INFO][37m - User: [caby_baby] Channel: [waifu-builder] Guild: [NE Splinter Cell][0m
+[37m[2020-12-27 15:26:41] [Commands.Util.Clear] [FINE][37m - Removed Message: [792896267486494791] Content: [$clear 2] From: [caby_baby][0m
+[37m[2020-12-27 15:26:41] [Commands.Util.Clear] [FINE][37m - Removed Message: [792895567743156226] Content: [Ignore harder dammit] From: [caby_baby][0m
+[37m[2020-12-27 15:26:41] [Commands.Util.Clear] [FINE][37m - Removed Message: [792895086576009216] Content: [/ignores] From: [unknown][0m
+[36m[2020-12-28 22:00:02] [Commands.Util.Clear] [INFO][37m - User: [thoughtslay3r] Channel: [bots] Guild: [JMD][0m
+[37m[2020-12-28 22:00:02] [Commands.Util.Clear] [FINE][37m - Removed Message: [793357647088320512] Content: [$clear 5] From: [thoughtslay3r][0m
+[37m[2020-12-28 22:00:02] [Commands.Util.Clear] [FINE][37m - Removed Message: [793357604184653855] Content: [] From: [unknown][0m
+[37m[2020-12-28 22:00:02] [Commands.Util.Clear] [FINE][37m - Removed Message: [793357596748546058] Content: [!trials <@!418902573169508352>] From: [CLUE][0m
+[37m[2020-12-28 22:00:02] [Commands.Util.Clear] [FINE][37m - Removed Message: [793357572089708575] Content: [] From: [unknown][0m
+[37m[2020-12-28 22:00:02] [Commands.Util.Clear] [FINE][37m - Removed Message: [793357564649537557] Content: [!trials] From: [SnakeJ419][0m
+[37m[2020-12-28 22:00:02] [Commands.Util.Clear] [FINE][37m - Removed Message: [793357526333653052] Content: [] From: [unknown][0m
+[36m[2020-12-28 22:00:09] [Commands.Util.Clear] [INFO][37m - User: [thoughtslay3r] Channel: [bots] Guild: [JMD][0m
+[37m[2020-12-28 22:00:09] [Commands.Util.Clear] [FINE][37m - Removed Message: [793357673890185260] Content: [$clear 4] From: [thoughtslay3r][0m
+[37m[2020-12-28 22:00:09] [Commands.Util.Clear] [FINE][37m - Removed Message: [793357517769932830] Content: [!trials] From: [CLUE][0m
+[37m[2020-12-28 22:00:09] [Commands.Util.Clear] [FINE][37m - Removed Message: [793003755871141899] Content: [bet] From: [CLUE][0m
+[37m[2020-12-28 22:00:09] [Commands.Util.Clear] [FINE][37m - Removed Message: [793003681976942603] Content: [must really just be from when I was shit that my kd and efficiency are worse] From: [SnakeJ419][0m
+[37m[2020-12-28 22:00:09] [Commands.Util.Clear] [FINE][37m - Removed Message: [793003609977651261] Content: [im just surprised my glory and winrate are better than urs] From: [SnakeJ419][0m
+[36m[2020-12-29 13:55:02] [Commands.timezones.TimeConversion] [INFO][37m - User: [GrandLucidity] Channel: [grandmasters] Guild: [JMD][0m
+[36m[2020-12-29 15:38:57] [Commands.timezones.TimeConversion] [INFO][37m - User: [?Spymax?] Channel: [lfg] Guild: [JMD][0m
+[36m[2020-12-29 15:38:57] [Commands.Scheduling.NewEvent] [INFO][37m - User: [?Spymax?] Channel: [lfg] Guild: [JMD][0m
+[37m[2020-12-29 15:38:57] [Commands.Scheduling.NewEvent] [FINE][37m - Event [dsc_challenges] at [Tue Dec 29 18:00:00 PST 2020] for up to [6] participants[0m
+[36m[2020-12-29 17:26:05] [Commands.Util.Clear] [INFO][37m - User: [thoughtslay3r] Channel: [destiny] Guild: [JMD][0m
+[37m[2020-12-29 17:26:05] [Commands.Util.Clear] [FINE][37m - Removed Message: [793651091484835861] Content: [$clear 1] From: [thoughtslay3r][0m
+[37m[2020-12-29 17:26:05] [Commands.Util.Clear] [FINE][37m - Removed Message: [793651054012661820] Content: [besides the mag its good] From: [CLUE][0m
+[36m[2020-12-29 18:59:59] [Commands.Util.Clear] [INFO][37m - User: [SnakeJ419] Channel: [destiny] Guild: [JMD][0m
+[37m[2020-12-29 18:59:59] [Commands.Util.Clear] [FINE][37m - Removed Message: [793674721999716352] Content: [$clear 1] From: [SnakeJ419][0m
+[37m[2020-12-29 18:59:59] [Commands.Util.Clear] [FINE][37m - Removed Message: [793674682204946453] Content: [] From: [SnakeJ419][0m
+[36m[2020-12-30 02:57:26] [Commands.Util.Annoy] [INFO][37m - User: [SnakeJ419] Channel: [bots] Guild: [JMD][0m
+[36m[2020-12-30 03:11:19] [Commands.Util.Annoy] [INFO][37m - User: [SnakeJ419] Channel: [fuck-you-spy-fuck-you-in-particular] Guild: [JMD][0m
+[36m[2021-01-01 16:20:49] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [destiny] Guild: [JMD][0m
+[36m[2021-01-01 16:29:25] [Commands.meme.DabCommand] [INFO][37m - User: [thoughtslay3r] Channel: [destiny] Guild: [JMD][0m
+[36m[2021-01-01 16:40:07] [Commands.meme.DabCommand] [INFO][37m - User: [GrandLucidity] Channel: [destiny] Guild: [JMD][0m
+[36m[2021-01-01 16:57:06] [Commands.timezones.TimeConversion] [INFO][37m - User: [Xeneres] Channel: [grandmasters] Guild: [JMD][0m
+[36m[2021-01-01 18:49:18] [Commands.meme.DabCommand] [INFO][37m - User: [CLUE] Channel: [destiny] Guild: [JMD][0m
+[36m[2021-01-01 18:52:48] [Commands.meme.DabCommand] [INFO][37m - User: [?? ?] Channel: [destiny] Guild: [JMD][0m
+[36m[2021-01-03 03:25:52] [Commands.Util.Clear] [INFO][37m - User: [thoughtslay3r] Channel: [bots] Guild: [JMD][0m
+[37m[2021-01-03 03:25:53] [Commands.Util.Clear] [FINE][37m - Removed Message: [795251586015952916] Content: [$clear 4] From: [unknown][0m
+[37m[2021-01-03 03:25:53] [Commands.Util.Clear] [FINE][37m - Removed Message: [795232556139151370] Content: [] From: [unknown][0m
+[37m[2021-01-03 03:25:53] [Commands.Util.Clear] [FINE][37m - Removed Message: [795232553249406996] Content: [!pvp elimination] From: [unknown][0m
+[37m[2021-01-03 03:25:53] [Commands.Util.Clear] [FINE][37m - Removed Message: [795232407808507916] Content: [] From: [unknown][0m
+[37m[2021-01-03 03:25:53] [Commands.Util.Clear] [FINE][37m - Removed Message: [795232405723414569] Content: [!pvp survival] From: [unknown][0m
+[36m[2021-01-03 13:51:26] [Commands.timezones.TimeConversion] [INFO][37m - User: [GrandLucidity] Channel: [grandmasters] Guild: [JMD][0m
+[36m[2021-01-03 17:23:04] [Commands.Util.Annoy] [INFO][37m - User: [SnakeJ419] Channel: [grandmasters] Guild: [JMD][0m
+[36m[2021-01-03 17:23:14] [Commands.Util.Annoy] [INFO][37m - User: [SnakeJ419] Channel: [grandmasters] Guild: [JMD][0m
+[36m[2021-01-03 20:51:54] [Commands.meme.DabCommand] [INFO][37m - User: [thoughtslay3r] Channel: [memes-bc-thats-cool] Guild: [JMD][0m
+[36m[2021-01-03 20:53:12] [Commands.meme.DabCommand] [INFO][37m - User: [caby_baby] Channel: [memes-bc-thats-cool] Guild: [JMD][0m
+[36m[2021-01-04 12:52:24] [Commands.timezones.TimeConversion] [INFO][37m - User: [GrandLucidity] Channel: [grandmasters] Guild: [JMD][0m
+[36m[2021-01-04 12:57:43] [Commands.timezones.TimeConversion] [INFO][37m - User: [CLUE] Channel: [grandmasters] Guild: [JMD][0m
+[36m[2021-01-04 22:55:42] [Commands.Util.Clear] [INFO][37m - User: [thoughtslay3r] Channel: [bots] Guild: [JMD][0m
+[37m[2021-01-04 22:55:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [795908371802226719] Content: [$clear 2] From: [thoughtslay3r][0m
+[37m[2021-01-04 22:55:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [795908357621678110] Content: [] From: [unknown][0m
+[37m[2021-01-04 22:55:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [795908293251825695] Content: [!trials] From: [CLUE][0m
+[36m[2021-01-04 22:55:54] [Commands.Util.Clear] [INFO][37m - User: [thoughtslay3r] Channel: [bots] Guild: [JMD][0m
+[37m[2021-01-04 22:55:54] [Commands.Util.Clear] [FINE][37m - Removed Message: [795908419243737098] Content: [$clear 2] From: [thoughtslay3r][0m
+[37m[2021-01-04 22:55:54] [Commands.Util.Clear] [FINE][37m - Removed Message: [795908415234899968] Content: [] From: [unknown][0m
+[37m[2021-01-04 22:55:54] [Commands.Util.Clear] [FINE][37m - Removed Message: [795908407126786060] Content: [!trials <@!386678254188101635>] From: [SnakeJ419][0m
+[36m[2021-01-05 11:50:16] [Commands.timezones.TimeConversion] [INFO][37m - User: [GrandLucidity] Channel: [raid-kids] Guild: [JMD][0m
+[36m[2021-01-05 12:11:01] [Commands.timezones.AddTimezone] [INFO][37m - User: [caby_baby] Channel: [begone-bot] Guild: [NE Splinter Cell][0m
+[36m[2021-01-05 12:11:26] [Commands.timezones.TimeConversion] [INFO][37m - User: [caby_baby] Channel: [general] Guild: [NE Splinter Cell][0m
+[36m[2021-01-05 12:11:37] [Commands.Util.Clear] [INFO][37m - User: [caby_baby] Channel: [general] Guild: [NE Splinter Cell][0m
+[37m[2021-01-05 12:11:37] [Commands.Util.Clear] [FINE][37m - Removed Message: [796108665811370006] Content: [$clear 2] From: [caby_baby][0m
+[37m[2021-01-05 12:11:37] [Commands.Util.Clear] [FINE][37m - Removed Message: [796108622790656010] Content: [Converted Times: 1:00pm pst; 2:00pm mst; 3:00pm cst; 4:00pm est; 10:00am croatia] From: [The Time Lord][0m
+[37m[2021-01-05 12:11:37] [Commands.Util.Clear] [FINE][37m - Removed Message: [796108621225525268] Content: [1pm] From: [caby_baby][0m
+[36m[2021-01-05 12:12:39] [Commands.timezones.TimeConversion] [INFO][37m - User: [caby_baby] Channel: [general] Guild: [NE Splinter Cell][0m
+[36m[2021-01-05 12:56:45] [Commands.timezones.TimeConversion] [INFO][37m - User: [GrandLucidity] Channel: [raid-kids] Guild: [JMD][0m
+[36m[2021-01-05 15:03:34] [Commands.Util.Clear] [INFO][37m - User: [thoughtslay3r] Channel: [2amsquad] Guild: [JMD][0m
+[37m[2021-01-05 15:03:34] [Commands.Util.Clear] [FINE][37m - Removed Message: [796151939917152256] Content: [$clear 1] From: [thoughtslay3r][0m
+[37m[2021-01-05 15:03:34] [Commands.Util.Clear] [FINE][37m - Removed Message: [796149972231389214] Content: [<@&741129751602659348> to those whom it may concern: vincent posted proof of simping on his story] From: [SnakeJ419][0m
+[36m[2021-01-05 15:43:10] [Commands.timezones.TimeConversion] [INFO][37m - User: [?Spymax?] Channel: [lfg] Guild: [JMD][0m
+[36m[2021-01-05 15:43:10] [Commands.Scheduling.NewEvent] [INFO][37m - User: [?Spymax?] Channel: [lfg] Guild: [JMD][0m
+[37m[2021-01-05 15:43:10] [Commands.Scheduling.NewEvent] [FINE][37m - Event [weekly_dsc_run] at [Tue Jan 05 17:00:00 PST 2021] for up to [6] participants[0m
+[36m[2021-01-05 15:59:32] [Commands.Util.Clear] [INFO][37m - User: [thoughtslay3r] Channel: [lfg] Guild: [JMD][0m
+[37m[2021-01-05 15:59:32] [Commands.Util.Clear] [FINE][37m - Removed Message: [796166026428547104] Content: [$clear 6] From: [unknown][0m
+[37m[2021-01-05 15:59:32] [Commands.Util.Clear] [FINE][37m - Removed Message: [796163823773548544] Content: [I may can make it im still not sure] From: [unknown][0m
+[37m[2021-01-05 15:59:32] [Commands.Util.Clear] [FINE][37m - Removed Message: [796163574535421962] Content: [<@!338521497297747968> <@!386678254188101635> <@!288406403054305290> <@!322741865642328065> <@!592863782204866599>] From: [unknown][0m
+[37m[2021-01-05 15:59:32] [Commands.Util.Clear] [FINE][37m - Removed Message: [796161908868120607] Content: [] From: [?Festive The Time Lord?][0m
+[37m[2021-01-05 15:59:32] [Commands.Util.Clear] [FINE][37m - Removed Message: [796161907626344448] Content: [Converted Times: 5:00pm pst; 6:00pm mst; 7:00pm cst; 8:00pm est; 2:00pm croatia] From: [?Festive The Time Lord?][0m
+[37m[2021-01-05 15:59:32] [Commands.Util.Clear] [FINE][37m - Removed Message: [796161906616434698] Content: [$newevent Weekly_DSC_Run 6 5:00pm] From: [unknown][0m
+[37m[2021-01-05 15:59:32] [Commands.Util.Clear] [FINE][37m - Removed Message: [794099191487791111] Content: [E] From: [unknown][0m
+[36m[2021-01-06 12:37:37] [Commands.meme.DabCommand] [INFO][37m - User: [SnakeJ419] Channel: [memes-bc-thats-cool] Guild: [JMD][0m
+[36m[2021-01-06 14:28:57] [Commands.timezones.TimeConversion] [INFO][37m - User: [CLUE] Channel: [raid-kids] Guild: [JMD][0m
+[36m[2021-01-07 09:45:44] [Commands.timezones.TimeConversion] [INFO][37m - User: [GrandLucidity] Channel: [lfg] Guild: [JMD][0m
+[36m[2021-01-07 11:24:33] [Commands.timezones.TimeConversion] [INFO][37m - User: [Xeneres] Channel: [lfg] Guild: [JMD][0m
+[36m[2021-01-07 12:54:37] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [destiny] Guild: [JMD][0m
+[36m[2021-01-07 12:54:37] [Commands.Scheduling.NewEvent] [INFO][37m - User: [SnakeJ419] Channel: [destiny] Guild: [JMD][0m
+[37m[2021-01-07 12:54:37] [Commands.Scheduling.NewEvent] [FINE][37m - Event [clanpvp] at [Thu Jan 07 16:00:00 PST 2021] for up to [12] participants[0m
+[36m[2021-01-07 13:46:55] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [destiny] Guild: [JMD][0m
+[36m[2021-01-07 14:04:29] [Commands.timezones.RegisterTimezone] [INFO][37m - User: [Feanaer] Channel: [bots] Guild: [JMD][0m
+[36m[2021-01-07 14:44:08] [Commands.timezones.TimeConversion] [INFO][37m - User: [?? ?] Channel: [lfg] Guild: [JMD][0m
+[36m[2021-01-07 16:39:02] [Commands.timezones.TimeConversion] [INFO][37m - User: [?? ?] Channel: [destiny] Guild: [JMD][0m
+[36m[2021-01-08 13:31:50] [Commands.timezones.TimeConversion] [INFO][37m - User: [CLUE] Channel: [grandmasters] Guild: [JMD][0m
+[36m[2021-01-08 14:46:29] [Commands.timezones.TimeConversion] [INFO][37m - User: [caby_baby] Channel: [lfg] Guild: [JMD][0m
+[36m[2021-01-08 14:46:29] [Commands.Scheduling.NewEvent] [INFO][37m - User: [caby_baby] Channel: [lfg] Guild: [JMD][0m
+[37m[2021-01-08 14:46:29] [Commands.Scheduling.NewEvent] [FINE][37m - Event [dsc_flexible_start_time] at [Fri Jan 08 18:00:00 PST 2021] for up to [6] participants[0m
+[36m[2021-01-08 19:02:09] [Commands.timezones.TimeConversion] [INFO][37m - User: [caby_baby] Channel: [lfg] Guild: [JMD][0m
+[36m[2021-01-08 19:02:09] [Commands.Scheduling.NewEvent] [INFO][37m - User: [caby_baby] Channel: [lfg] Guild: [JMD][0m
+[37m[2021-01-08 19:02:09] [Commands.Scheduling.NewEvent] [FINE][37m - Event [dsc_flexible_start_time] at [Fri Jan 08 19:05:00 PST 2021] for up to [6] participants[0m
+[36m[2021-01-08 19:58:09] [Commands.dnd.DNDNick] [INFO][37m - User: [SnakeJ419] Channel: [quest-for-the-gforce-hamster] Guild: [Woah, Nice Cock][0m
+[32m[2021-01-08 19:58:09] [Commands.dnd.DNDNick] [CONFIG][37m - {326415273827762176,<null>}[0m
+[37m[2021-01-08 19:58:09] [Commands.dnd.DNDNick] [FINE][37m - Changed: [SnakeJ419] to: [GodOfTheWorld][0m
+[32m[2021-01-08 19:58:09] [Commands.dnd.DNDNick] [CONFIG][37m - {250776388984897536,?Festive Conar?}[0m
+[37m[2021-01-08 19:58:09] [Commands.dnd.DNDNick] [FINE][37m - Changed: [?Festive Conar?] to: [Fawn][0m
+[32m[2021-01-08 19:58:09] [Commands.dnd.DNDNick] [CONFIG][37m - {204436639072780299,<null>}[0m
+[37m[2021-01-08 19:58:09] [Commands.dnd.DNDNick] [FINE][37m - Changed: [Chaun Deetle] to: [Vladimir][0m
+[32m[2021-01-08 19:58:09] [Commands.dnd.DNDNick] [CONFIG][37m - {297190923551506432,<null>}[0m
+[37m[2021-01-08 19:58:09] [Commands.dnd.DNDNick] [FINE][37m - Changed: [Lawlerhat] to: [Nalzyr][0m
+[36m[2021-01-08 21:12:35] [Commands.Util.Clear] [INFO][37m - User: [SnakeJ419] Channel: [dnd] Guild: [Woah, Nice Cock][0m
+[37m[2021-01-08 21:12:36] [Commands.Util.Clear] [FINE][37m - Removed Message: [797331973290328104] Content: [$clear 1] From: [GodOfTheWorld][0m
+[37m[2021-01-08 21:12:36] [Commands.Util.Clear] [FINE][37m - Removed Message: [797331950720909402] Content: [] From: [Fawn][0m
+[36m[2021-01-08 22:15:23] [Commands.dnd.ResetNick] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [Woah, Nice Cock][0m
+[37m[2021-01-08 22:15:23] [Commands.dnd.ResetNick] [FINE][37m - Changed: [GodOfTheWorld] to: [][0m
+[37m[2021-01-08 22:15:23] [Commands.dnd.ResetNick] [FINE][37m - Changed: [Fawn] to: [?Festive Conar?][0m
+[37m[2021-01-08 22:15:23] [Commands.dnd.ResetNick] [FINE][37m - Changed: [Vladimir] to: [][0m
+[37m[2021-01-08 22:15:23] [Commands.dnd.ResetNick] [FINE][37m - Changed: [Nalzyr] to: [][0m
+[36m[2021-01-08 23:03:20] [Commands.Util.Clear] [INFO][37m - User: [SnakeJ419] Channel: [gamer-general-horny] Guild: [Woah, Nice Cock][0m
+[37m[2021-01-08 23:03:20] [Commands.Util.Clear] [FINE][37m - Removed Message: [797359842469609512] Content: [$clear 1] From: [SnakeJ419][0m
+[37m[2021-01-08 23:03:20] [Commands.Util.Clear] [FINE][37m - Removed Message: [797359822021459971] Content: [https://discord.com/channels/691608018869288981/797351299866689546/797359669030027304] From: [SnakeJ419][0m
+[36m[2021-01-09 11:52:33] [Commands.timezones.TimeConversion] [INFO][37m - User: [caby_baby] Channel: [lfg] Guild: [JMD][0m
+[36m[2021-01-09 11:52:33] [Commands.Scheduling.NewEvent] [INFO][37m - User: [caby_baby] Channel: [lfg] Guild: [JMD][0m
+[37m[2021-01-09 11:52:33] [Commands.Scheduling.NewEvent] [FINE][37m - Event [prophecy_dungeon] at [Sat Jan 09 19:00:00 PST 2021] for up to [3] participants[0m
+[36m[2021-01-09 13:01:53] [Commands.timezones.RegisterTimezone] [INFO][37m - User: [caby_baby] Channel: [bot] Guild: [DND 5E ADVENTURE][0m
+[36m[2021-01-09 13:02:26] [Commands.timezones.TimeConversion] [INFO][37m - User: [caby_baby] Channel: [general] Guild: [DND 5E ADVENTURE][0m
+[36m[2021-01-09 13:02:42] [Commands.Scheduling.NewEvent] [INFO][37m - User: [caby_baby] Channel: [bot] Guild: [DND 5E ADVENTURE][0m
+[37m[2021-01-09 13:02:42] [Commands.Scheduling.NewEvent] [FINE][37m - Formatting error in received message, canceling request[0m
+[36m[2021-01-09 13:03:23] [Commands.timezones.TimeConversion] [INFO][37m - User: [caby_baby] Channel: [bot] Guild: [DND 5E ADVENTURE][0m
+[36m[2021-01-09 13:03:23] [Commands.Scheduling.NewEvent] [INFO][37m - User: [caby_baby] Channel: [bot] Guild: [DND 5E ADVENTURE][0m
+[37m[2021-01-09 13:03:23] [Commands.Scheduling.NewEvent] [FINE][37m - Event [dnd5e] at [Sat Jan 16 12:30:00 PST 2021] for up to [7] participants[0m
+[36m[2021-01-09 13:14:41] [Commands.dnd.DNDNick] [INFO][37m - User: [caby_baby] Channel: [bot] Guild: [DND 5E ADVENTURE][0m
+[36m[2021-01-09 13:14:50] [Commands.dnd.DNDNick] [INFO][37m - User: [caby_baby] Channel: [bot] Guild: [DND 5E ADVENTURE][0m
+[36m[2021-01-09 13:16:47] [Commands.dnd.SetDNDNick] [INFO][37m - User: [caby_baby] Channel: [bot] Guild: [DND 5E ADVENTURE][0m
+[37m[2021-01-09 13:16:47] [Commands.dnd.SetDNDNick] [FINE][37m - DND Nick of: (insert new dnd nickname) saved as: crow[0m
+[36m[2021-01-09 13:16:54] [Commands.dnd.DNDNick] [INFO][37m - User: [caby_baby] Channel: [bot] Guild: [DND 5E ADVENTURE][0m
+[32m[2021-01-09 13:16:54] [Commands.dnd.DNDNick] [CONFIG][37m - {322741865642328065,(insert new dnd nickname)}[0m
+[37m[2021-01-09 13:16:54] [Commands.dnd.DNDNick] [FINE][37m - Changed: [(insert new dnd nickname)] to: [crow][0m
+[36m[2021-01-09 13:17:39] [Commands.dnd.DNDNick] [INFO][37m - User: [caby_baby] Channel: [bot] Guild: [DND 5E ADVENTURE][0m
+[32m[2021-01-09 13:17:39] [Commands.dnd.DNDNick] [CONFIG][37m - {322741865642328065,(insert new dnd nickname)}[0m
+[37m[2021-01-09 13:17:39] [Commands.dnd.DNDNick] [FINE][37m - Changed: [(insert new dnd nickname)] to: [crow][0m
+[36m[2021-01-09 13:18:58] [Commands.Util.Clean] [INFO][37m - User: [caby_baby] Channel: [bot] Guild: [DND 5E ADVENTURE][0m
+[37m[2021-01-09 13:18:58] [Commands.Util.Clean] [FINE][37m - Removed Message: [797574617735626753] Content: [DND Nick of: (insert new dnd nickname) saved as: crow] From: [The Time Lord][0m
+[37m[2021-01-09 13:18:58] [Commands.Util.Clean] [FINE][37m - Removed Message: [797574617148686356] Content: [$setdndnick crow] From: [caby_baby][0m
+[37m[2021-01-09 13:18:58] [Commands.Util.Clean] [FINE][37m - Removed Message: [797574127007301672] Content: [Set to DND Nicknames] From: [The Time Lord][0m
+[37m[2021-01-09 13:18:58] [Commands.Util.Clean] [FINE][37m - Removed Message: [797574126042087445] Content: [$dndnick set crow] From: [caby_baby][0m
+[37m[2021-01-09 13:18:58] [Commands.Util.Clean] [FINE][37m - Removed Message: [797574090009215016] Content: [Set to DND Nicknames] From: [The Time Lord][0m
+[37m[2021-01-09 13:18:58] [Commands.Util.Clean] [FINE][37m - Removed Message: [797574088939798539] Content: [$dndnick] From: [caby_baby][0m
+[37m[2021-01-09 13:18:58] [Commands.Util.Clean] [FINE][37m - Removed Message: [797571249819222057] Content: [] From: [The Time Lord][0m
+[37m[2021-01-09 13:18:58] [Commands.Util.Clean] [FINE][37m - Removed Message: [797571248263397397] Content: [Converted Times: 12:30pm pst; 1:30am mst; 2:30am cst; 3:30am est] From: [The Time Lord][0m
+[37m[2021-01-09 13:18:58] [Commands.Util.Clean] [FINE][37m - Removed Message: [797571247373942827] Content: [$newevent DND5e 7 12:30pm jan-16] From: [caby_baby][0m
+[37m[2021-01-09 13:18:58] [Commands.Util.Clean] [FINE][37m - Removed Message: [797571074535063552] Content: [Error with the formatting of your message, Message should be in the format of:
+`$newevent <event_name> <max_participants> <hh:mma>`
+or
+`$newevent <event_name> <max_participants> <hh:mma> <MMM-dd>`] From: [The Time Lord][0m
+[37m[2021-01-09 13:18:58] [Commands.Util.Clean] [FINE][37m - Removed Message: [797571073972764772] Content: [$newevent DND5e] From: [caby_baby][0m
+[37m[2021-01-09 13:18:58] [Commands.Util.Clean] [FINE][37m - Removed Message: [797570869374615632] Content: [Registered User: Crow to timezone: pst] From: [The Time Lord][0m
+[37m[2021-01-09 13:18:58] [Commands.Util.Clean] [FINE][37m - Removed Message: [797570868443742228] Content: [Your registration is being changed] From: [The Time Lord][0m
+[37m[2021-01-09 13:18:58] [Commands.Util.Clean] [FINE][37m - Removed Message: [797570867579715624] Content: [$register pst] From: [caby_baby][0m
+[36m[2021-01-09 13:19:04] [Commands.Util.Clean] [INFO][37m - User: [caby_baby] Channel: [bot] Guild: [DND 5E ADVENTURE][0m
+[37m[2021-01-09 13:19:05] [Commands.Util.Clean] [FINE][37m - Removed Message: [797571074535063552] Content: [Error with the formatting of your message, Message should be in the format of:
+`$newevent <event_name> <max_participants> <hh:mma>`
+or
+`$newevent <event_name> <max_participants> <hh:mma> <MMM-dd>`] From: [The Time Lord][0m
+[37m[2021-01-09 13:19:05] [Commands.Util.Clean] [FINE][37m - Removed Message: [797571073972764772] Content: [$newevent DND5e] From: [caby_baby][0m
+[37m[2021-01-09 13:19:05] [Commands.Util.Clean] [FINE][37m - Removed Message: [797570869374615632] Content: [Registered User: Crow to timezone: pst] From: [The Time Lord][0m
+[37m[2021-01-09 13:19:05] [Commands.Util.Clean] [FINE][37m - Removed Message: [797570868443742228] Content: [Your registration is being changed] From: [The Time Lord][0m
+[37m[2021-01-09 13:19:05] [Commands.Util.Clean] [FINE][37m - Removed Message: [797570867579715624] Content: [$register pst] From: [caby_baby][0m
+[36m[2021-01-09 13:19:16] [Commands.Util.LoadMembers] [INFO][37m - User: [caby_baby] Channel: [bot] Guild: [DND 5E ADVENTURE][0m
+[36m[2021-01-09 13:19:41] [Commands.Util.Annoy] [INFO][37m - User: [caby_baby] Channel: [bot] Guild: [DND 5E ADVENTURE][0m
+[36m[2021-01-09 13:21:42] [Commands.Util.Clear] [INFO][37m - User: [caby_baby] Channel: [bot] Guild: [DND 5E ADVENTURE][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575857518149642] Content: [$clear 32] From: [(insert new dnd nickname)][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575834755268628] Content: [$clear30] From: [(insert new dnd nickname)][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575826941542501] Content: [] From: [Groovy][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575530843996180] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575524481761280] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575518278516757] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575511848255558] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575505498079292] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575499152883742] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575492726947901] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575486674698270] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575480483905616] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575473906974740] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575467649466415] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575461315805184] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575454991056896] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575448917049424] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575442281660416] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575435982471178] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575429765726278] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575423361810513] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575417048858634] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575410920456252] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575404482199642] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575397684412467] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575391715655680] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575385558286337] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575379077300265] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575372824641616] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575366389661697] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575360039878696] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575353916850236] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:43] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575347641384960] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[36m[2021-01-09 13:21:49] [Commands.Util.Clear] [INFO][37m - User: [caby_baby] Channel: [bot] Guild: [DND 5E ADVENTURE][0m
+[37m[2021-01-09 13:21:49] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575885838352414] Content: [$clear 10] From: [(insert new dnd nickname)][0m
+[37m[2021-01-09 13:21:49] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575486674698270] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:49] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575480483905616] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:49] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575473906974740] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:49] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575467649466415] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:49] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575461315805184] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:49] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575454991056896] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:49] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575448917049424] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:49] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575442281660416] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:49] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575435982471178] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:49] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575429765726278] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[36m[2021-01-09 13:21:57] [Commands.Util.Clear] [INFO][37m - User: [caby_baby] Channel: [bot] Guild: [DND 5E ADVENTURE][0m
+[37m[2021-01-09 13:21:57] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575919094202421] Content: [$clear 10] From: [(insert new dnd nickname)][0m
+[37m[2021-01-09 13:21:57] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575885838352414] Content: [$clear 10] From: [(insert new dnd nickname)][0m
+[37m[2021-01-09 13:21:57] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575454991056896] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:57] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575448917049424] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:57] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575442281660416] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:57] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575435982471178] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:57] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575429765726278] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:57] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575423361810513] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:57] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575417048858634] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:57] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575410920456252] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 13:21:57] [Commands.Util.Clear] [FINE][37m - Removed Message: [797575404482199642] Content: [<@!281301041881022464>] From: [The Time Lord][0m
+[36m[2021-01-09 13:23:21] [Commands.dnd.DNDNick] [INFO][37m - User: [caby_baby] Channel: [bot] Guild: [DND 5E ADVENTURE][0m
+[32m[2021-01-09 13:23:21] [Commands.dnd.DNDNick] [CONFIG][37m - {322741865642328065,(insert new dnd nickname)}[0m
+[37m[2021-01-09 13:23:21] [Commands.dnd.DNDNick] [FINE][37m - Changed: [(insert new dnd nickname)] to: [crow][0m
+[36m[2021-01-09 13:23:33] [Commands.Util.ForceReset] [INFO][37m - User: [caby_baby] Channel: [bot] Guild: [DND 5E ADVENTURE][0m
+[37m[2021-01-09 13:23:33] [Commands.Util.ForceReset] [FINE][37m - Reverted: [Whickj] to: [whicksnuff][0m
+[37m[2021-01-09 13:23:33] [Commands.Util.ForceReset] [FINE][37m - Reverted: [Groovy] to: [Groovy][0m
+[33m[2021-01-09 13:23:33] [Commands.Util.ForceReset] [WARNING][37m - Unable to modify admin: [Groovy], proceeding[0m
+[37m[2021-01-09 13:23:33] [Commands.Util.ForceReset] [FINE][37m - Reverted: [Aknir] to: [ericwthphatty][0m
+[37m[2021-01-09 13:23:33] [Commands.Util.ForceReset] [FINE][37m - Reverted: [(insert new dnd nickname)] to: [caby_baby][0m
+[33m[2021-01-09 13:23:33] [Commands.Util.ForceReset] [WARNING][37m - Unable to modify admin: [(insert new dnd nickname)], proceeding[0m
+[37m[2021-01-09 13:23:33] [Commands.Util.ForceReset] [FINE][37m - Reverted: [AlexTheAlex] to: [AlexTheAlex][0m
+[37m[2021-01-09 13:23:33] [Commands.Util.ForceReset] [FINE][37m - Reverted: [Samild�nach] to: [hatcher1084][0m
+[37m[2021-01-09 13:23:33] [Commands.Util.ForceReset] [FINE][37m - Reverted: [Aegis] to: [BiggieCheese][0m
+[37m[2021-01-09 13:23:33] [Commands.Util.ForceReset] [FINE][37m - Reverted: [Slayer Of Gods] to: [CarbonFire][0m
+[37m[2021-01-09 13:23:33] [Commands.Util.ForceReset] [FINE][37m - Reverted: [Dice Maiden] to: [Dice Maiden][0m
+[33m[2021-01-09 13:23:33] [Commands.Util.ForceReset] [WARNING][37m - Unable to modify admin: [Dice Maiden], proceeding[0m
+[37m[2021-01-09 13:23:33] [Commands.Util.ForceReset] [FINE][37m - Reverted: [Flynn Flyers] to: [LiefB][0m
+[37m[2021-01-09 13:23:33] [Commands.Util.ForceReset] [FINE][37m - Reverted: [The Time Lord] to: [The Time Lord][0m
+[36m[2021-01-09 13:23:54] [Commands.dnd.DNDNick] [INFO][37m - User: [caby_baby] Channel: [bot] Guild: [DND 5E ADVENTURE][0m
+[32m[2021-01-09 13:23:54] [Commands.dnd.DNDNick] [CONFIG][37m - {322741865642328065,(insert new dnd nickname)}[0m
+[37m[2021-01-09 13:23:54] [Commands.dnd.DNDNick] [FINE][37m - Changed: [(insert new dnd nickname)] to: [crow][0m
+[36m[2021-01-09 13:36:27] [Commands.timezones.TimeConversion] [INFO][37m - User: [caby_baby] Channel: [general] Guild: [DND 5E ADVENTURE][0m
+[36m[2021-01-09 13:36:27] [Commands.Scheduling.NewEvent] [INFO][37m - User: [caby_baby] Channel: [general] Guild: [DND 5E ADVENTURE][0m
+[37m[2021-01-09 13:36:27] [Commands.Scheduling.NewEvent] [FINE][37m - Event [chaz_ted_talk] at [Sat Jan 09 14:15:00 PST 2021] for up to [8] participants[0m
+[36m[2021-01-09 14:15:29] [Commands.Util.Clear] [INFO][37m - User: [caby_baby] Channel: [general] Guild: [DND 5E ADVENTURE][0m
+[37m[2021-01-09 14:15:29] [Commands.Util.Clear] [FINE][37m - Removed Message: [797589390053736529] Content: [$clear 5] From: [(insert new dnd nickname)][0m
+[37m[2021-01-09 14:15:29] [Commands.Util.Clear] [FINE][37m - Removed Message: [797589371246084097] Content: [$claer 5] From: [(insert new dnd nickname)][0m
+[37m[2021-01-09 14:15:29] [Commands.Util.Clear] [FINE][37m - Removed Message: [797589270818717706] Content: [0 minutes until chaz_ted_talk
+There are 6 slots left for] From: [The Time Lord][0m
+[37m[2021-01-09 14:15:29] [Commands.Util.Clear] [FINE][37m - Removed Message: [797589269752709121] Content: [chaz_ted_talk is happening now!
+<@322741865642328065><@281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 14:15:29] [Commands.Util.Clear] [FINE][37m - Removed Message: [797585495734485053] Content: [15 minutes until chaz_ted_talk
+There are 7 slots left for 
+<@281301041881022464>] From: [The Time Lord][0m
+[37m[2021-01-09 14:15:29] [Commands.Util.Clear] [FINE][37m - Removed Message: [797585494602940436] Content: [15 minutes until chaz_ted_talk
+<@322741865642328065>] From: [The Time Lord][0m
+[36m[2021-01-09 14:15:40] [Commands.Util.Clear] [INFO][37m - User: [caby_baby] Channel: [general] Guild: [DND 5E ADVENTURE][0m
+[37m[2021-01-09 14:15:40] [Commands.Util.Clear] [FINE][37m - Removed Message: [797589435335704616] Content: [$clear 1] From: [(insert new dnd nickname)][0m
+[37m[2021-01-09 14:15:40] [Commands.Util.Clear] [FINE][37m - Removed Message: [797581719360241665] Content: [30 minutes until chaz_ted_talk
+There are 7 slots left for 
+<@281301041881022464>] From: [The Time Lord][0m
+[36m[2021-01-09 21:14:54] [Commands.meme.DabCommand] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [Woah, Nice Cock][0m
+[36m[2021-01-09 21:39:15] [Commands.Util.Clear] [INFO][37m - User: [caby_baby] Channel: [general] Guild: [NE Splinter Cell][0m
+[37m[2021-01-09 21:39:15] [Commands.Util.Clear] [FINE][37m - Removed Message: [797701070382039070] Content: [$clear 2] From: [caby_baby][0m
+[37m[2021-01-09 21:39:15] [Commands.Util.Clear] [FINE][37m - Removed Message: [797701044515635200] Content: [**Paused** ?] From: [Rythm][0m
+[37m[2021-01-09 21:39:15] [Commands.Util.Clear] [FINE][37m - Removed Message: [797701044179304498] Content: [!stop] From: [caby_baby][0m
+[36m[2021-01-09 21:39:33] [Commands.Util.Clear] [INFO][37m - User: [caby_baby] Channel: [general] Guild: [NE Splinter Cell][0m
+[37m[2021-01-09 21:39:33] [Commands.Util.Clear] [FINE][37m - Removed Message: [797701145505955843] Content: [$clear 1] From: [caby_baby][0m
+[37m[2021-01-09 21:39:33] [Commands.Util.Clear] [FINE][37m - Removed Message: [797700460194037771] Content: [-stop] From: [caby_baby][0m
+[36m[2021-01-10 03:36:14] [Commands.timezones.TimeConversion] [INFO][37m - User: [CLUE] Channel: [destiny] Guild: [JMD][0m
+[36m[2021-01-10 03:37:21] [Commands.timezones.TimeConversion] [INFO][37m - User: [GrandLucidity] Channel: [destiny] Guild: [JMD][0m
+[36m[2021-01-12 12:05:23] [Commands.timezones.TimeConversion] [INFO][37m - User: [GrandLucidity] Channel: [destiny] Guild: [JMD][0m
+[36m[2021-01-12 12:08:03] [Commands.Scheduling.NewEvent] [INFO][37m - User: [SnakeJ419] Channel: [lfg] Guild: [JMD][0m
+[37m[2021-01-12 12:08:03] [Commands.Scheduling.NewEvent] [FINE][37m - Formatting error in received message, canceling request[0m
+[36m[2021-01-12 12:08:12] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [lfg] Guild: [JMD][0m
+[36m[2021-01-12 12:08:12] [Commands.Scheduling.NewEvent] [INFO][37m - User: [SnakeJ419] Channel: [lfg] Guild: [JMD][0m
+[37m[2021-01-12 12:08:12] [Commands.Scheduling.NewEvent] [FINE][37m - Event [dsc-raid] at [Tue Jan 12 17:00:00 PST 2021] for up to [6] participants[0m
+[36m[2021-01-12 12:08:37] [Commands.meme.DabCommand] [INFO][37m - User: [SnakeJ419] Channel: [memes-bc-thats-cool] Guild: [JMD][0m
+[36m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [INFO][37m - User: [SnakeJ419] Channel: [bots] Guild: [JMD][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive ?Festive Monday??] to: [Monday][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [Conar] to: [Conar][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive ?Festive Pando??] to: [Pando][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [thoughtslay3r] to: [thoughtslay3r][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [Charlemagne] to: [Charlemagne][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [Gustifer01] to: [Gustifer01][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive ?Festive DiceParser??] to: [DiceParser][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive ?Festive Rythm??] to: [Rythm][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [phobia] to: [phobia][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Spymax?] to: [?Spymax?][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [ServerIPManager] to: [ServerIPManager][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [Vitamin P] to: [Vitamin P][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive TinCanKnight?] to: [TinCanKnight][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [Clukurduk] to: [Clukurduk][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [ConDog] to: [ConDog][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive FunDome?] to: [FunDome][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [Fae] to: [Feanaer][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive ShaneB?] to: [ShaneB][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive Andrew_?] to: [Scrooge McNugz][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [timmothyeag] to: [timmothyeag][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive jackvrown?] to: [jackvrown][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive ?? ??] to: [?? ?][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [Caby-san] to: [caby_baby][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive therealconro?] to: [therealconro][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive Goldfishy?] to: [Goldfishy][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive The Time Lord?] to: [The Time Lord][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [SnakeJ419] to: [SnakeJ419][0m
+[33m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [WARNING][37m - Unable to modify admin: [SnakeJ419], proceeding[0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [Nevosity] to: [Nevosity][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive Lawlerhat?] to: [Lawlerhat][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive Nuklite?] to: [Nuklite][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive Chaun Deetle?] to: [Chaun Deetle][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive Lavar Ballsack?] to: [Lavar Ballsack][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive CodeX?] to: [CodeX][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive Xeneres?] to: [Xeneres][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive NaCl?] to: [NaCl][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive SirEthan?] to: [SirEthan][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [Lucid] to: [GrandLucidity][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive DerpyShark?] to: [DerpyShark][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive nwm247?] to: [nwm247][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [MaseHatter] to: [MaseHatter][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [?Festive dc2man?] to: [dc2man][0m
+[37m[2021-01-12 12:09:28] [Commands.Util.ForceReset] [FINE][37m - Reverted: [CLUE] to: [CLUE][0m
+[36m[2021-01-12 20:21:30] [Commands.Util.ClearTo] [INFO][37m - User: [SnakeJ419] Channel: [vincent-bullies-your-guns] Guild: [JMD][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798768668565569546] Content: [$clearto 798765243508588604] From: [SnakeJ419][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798768613376262155] Content: [ok, messages with absolutely shit guns are gonna start getting deleted, this is spam] From: [SnakeJ419][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798768564580384778] Content: [I just threw stuff up here lol] From: [unknown][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798768518472007760] Content: [why do you want astral] From: [thoughtslay3r][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798768502562750524] Content: [but like u have felwinter] From: [thoughtslay3r][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798768204880019458] Content: [I guess cqc and ikelos is good then lol] From: [unknown][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798767998470062102] Content: [jay: 
+Last hope: 4/5, bad mag
+CQC: why/5
+astral: 2/5, bad mag, celerity no go, reload is gross
+ikelos smg: fuck u lucid/5] From: [thoughtslay3r][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798767584665141268] Content: [cmon vince need some bullying] From: [GrandLucidity][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798767500215975976] Content: [] From: [unknown][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798766959193751592] Content: [note: certian rolls can exceed 100 range with full bore, accurized, and range MW at cost of stability with is not recommended] From: [thoughtslay3r][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798766826607738881] Content: [looking for fluted barrel, accurized, killing wind, kill clip/vorpal/demolitionist] From: [thoughtslay3r][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798766740799488000] Content: [] From: [unknown][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798766730121969724] Content: [press f on all] From: [thoughtslay3r][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798766692272439306] Content: [] From: [unknown][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798766635678433280] Content: [] From: [unknown][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798766599703756810] Content: [] From: [unknown][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798766470564806669] Content: [i can confidently say that everyones glacioclasm is bad] From: [thoughtslay3r][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798766339371433995] Content: [jay:
+posterity, 3/5, bad mag, bad barrels
+trustee no. 1: 4/5 not the best mags] From: [thoughtslay3r][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798766305804156938] Content: [] From: [unknown][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798766221892780042] Content: [if you need help, I know a decent amount about pve rolls] From: [unknown][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798766129995710506] Content: [] From: [unknown][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798766042330562581] Content: [*sighs*] From: [thoughtslay3r][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798765969706975254] Content: [] From: [unknown][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798765960126660609] Content: [mom theres too many guns AHHHHHHHHHHHHH] From: [thoughtslay3r][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798765949566058527] Content: [] From: [GrandLucidity][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798765932456443935] Content: [] From: [unknown][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798765725414064148] Content: [] From: [GrandLucidity][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798765703121469480] Content: [] From: [unknown][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798765675170365480] Content: [Don't give Vincent hope caby] From: [unknown][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798765593619726356] Content: [no homo] From: [unknown][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798765581867548702] Content: [I love you] From: [unknown][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798765536195510324] Content: [] From: [unknown][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798765475923755028] Content: [] From: [unknown][0m
+[37m[2021-01-12 20:21:31] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [798765243508588604] Content: [ur welcome caby] From: [thoughtslay3r][0m
+[36m[2021-01-15 19:47:32] [Commands.timezones.TimeConversion] [INFO][37m - User: [CLUE] Channel: [grandmasters] Guild: [JMD][0m

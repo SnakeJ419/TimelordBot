@@ -31,7 +31,6 @@ public class DabCommand extends ServerCommand {
 		try {
 			Image userPhoto = ImageIO.read(new URL(user.getAvatarUrl()));
 			Image dabArms = ImageIO.read(new File("src\\main\\resources\\DAB.png"));
-			System.out.println("ooh yeahg");
 
 			// create the new image, canvas size is the max. of both image sizes
 			int w = Math.max(userPhoto.getWidth(null), dabArms.getWidth(null));

@@ -12,6 +12,6 @@ public class Proof extends ServerCommand {
 
 	@Override
 	public void runCommand(MessageReceivedEvent event) {
-		event.getChannel().sendFile(new File("C:\\Users\\Joshua\\IdeaProjects\\The Time Lord\\unknown.png")).queue();
+		event.getChannel().sendFile(new File("C:\\Users\\Joshua\\Downloads\\Screenshot 2021-01-27 084629.jpg")).queue();
 	}
 }

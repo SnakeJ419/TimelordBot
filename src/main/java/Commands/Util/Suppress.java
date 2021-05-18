@@ -23,6 +23,10 @@ public class Suppress extends ServerCommand {
 		event.getGuild().retrieveMemberById(memberText).queue(member -> {
 			event.getJDA().addEventListener(new SilentSuppressor(member, event.getGuild()));
 			event.getGuild().moveVoiceMember(member, null).queue();
+			member.getUser().openPrivateChannel().flatMap(privateChannel -> privateChannel.sendMessage(
+					"You have been suppressed in the server '" + event.getGuild().getName() + "'\n"
+					+ "You will not be able to join voice channels or send messages until the suppression has ended\n"
+					+ "Contact support at 425-647-3034 to remove your suppression")).queue();
 		});
 		event.getChannel().deleteMessageById(event.getMessageId()).queue();
 	}
@@ -45,9 +49,11 @@ public class Suppress extends ServerCommand {
 
 		@Override
 		public void onMessageReceived(@NotNull MessageReceivedEvent event) {
-			if(event.getMember().hasPermission(Permission.ADMINISTRATOR) && event.getMessage().getContentRaw().toLowerCase().equals("$stopsuppression")){
+			if(event.getGuild() == guild && event.getMember().hasPermission(Permission.ADMINISTRATOR) && event.getMessage().getContentRaw().toLowerCase().equals("$stopsuppression")){
 				event.getJDA().removeEventListener(this);
 				event.getChannel().deleteMessageById(event.getMessageId()).queue();
+			} else if(event.getGuild() == guild && event.getMember().getId().equals(suppressed.getId())){
+				event.getMessage().delete().queue();
 			}
 		}
 	}

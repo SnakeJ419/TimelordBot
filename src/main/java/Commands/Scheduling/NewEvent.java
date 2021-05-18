@@ -22,6 +22,7 @@ public class NewEvent extends ServerCommand {
 		super("$newevent");
 	}
 
+	@SuppressWarnings("deprecation")
 	@Override
 	public void runCommand(MessageReceivedEvent messageEvent) {
 		logger.log(Level.INFO, "User: [" + messageEvent.getAuthor().getName() + "] Channel: [" + messageEvent.getChannel().getName() + "] Guild: [" + messageEvent.getGuild().getName() + ']');

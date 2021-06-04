@@ -19,3 +19,293 @@
 [36m[2021-05-20 19:12:39] [Commands.Util.Suppress$SilentSuppressor] [INFO][37m - Suppressed [keeper of the kneecaps] in [Strewbarbs Server][0m
 [36m[2021-05-20 19:20:15] [Commands.Util.Suppress$SilentSuppressor] [INFO][37m - Ended suppression on [keeper of the kneecaps] in [Strewbarbs Server][0m
 [36m[2021-05-20 19:35:44] [Commands.Util.Suppress$SilentSuppressor] [INFO][37m - Suppressed [keeper of the kneecaps] in [Strewbarbs Server][0m
+[36m[2021-05-20 21:39:45] [Commands.Util.Suppress$SilentSuppressor] [INFO][37m - Ended suppression on [keeper of the kneecaps] in [Strewbarbs Server][0m
+[36m[2021-05-20 22:15:27] [Commands.Util.Clear] [INFO][37m - User: [SnakeJ419] Channel: [old-general] Guild: [Woah, Nice Cock][0m
+[37m[2021-05-20 22:15:27] [Commands.Util.Clear] [FINE][37m - Removed Message: [845167890419679263] Content: [$clear 1] From: [SnakeJ419][0m
+[37m[2021-05-20 22:15:27] [Commands.Util.Clear] [FINE][37m - Removed Message: [845167802163789866] Content: [Josh is now a sperm] From: [CLÜE][0m
+[36m[2021-05-20 22:16:19] [Commands.Util.Clear] [INFO][37m - User: [SnakeJ419] Channel: [old-general] Guild: [Woah, Nice Cock][0m
+[33m[2021-05-20 22:16:19] [Commands.Util.Clear] [WARNING][37m - Failed to parse integer from: [$clear 2\][0m
+[36m[2021-05-20 22:16:26] [Commands.Util.Clear] [INFO][37m - User: [SnakeJ419] Channel: [old-general] Guild: [Woah, Nice Cock][0m
+[37m[2021-05-20 22:16:26] [Commands.Util.Clear] [FINE][37m - Removed Message: [845168140262703134] Content: [$clear 3] From: [SnakeJ419][0m
+[37m[2021-05-20 22:16:26] [Commands.Util.Clear] [FINE][37m - Removed Message: [845168111544172555] Content: [Failed to parse command, messages to clear must be between 1 and 99] From: [The Time Lord][0m
+[37m[2021-05-20 22:16:26] [Commands.Util.Clear] [FINE][37m - Removed Message: [845168110918959174] Content: [$clear 2\] From: [SnakeJ419][0m
+[37m[2021-05-20 22:16:26] [Commands.Util.Clear] [FINE][37m - Removed Message: [845168092175007754] Content: [Josh is now a sperm] From: [CLÜE][0m
+[36m[2021-05-20 22:21:30] [Commands.Util.Suppress$SilentSuppressor] [INFO][37m - Suppressed [CLÜE] in [Woah, Nice Cock][0m
+[36m[2021-05-20 22:23:38] [Commands.Util.Suppress$SilentSuppressor] [INFO][37m - Ended suppression on [CLÜE] in [Woah, Nice Cock][0m
+[36m[2021-05-20 22:42:30] [Commands.timezones.TimeConversion] [INFO][37m - User: [Conar] Channel: [new-general] Guild: [Woah, Nice Cock][0m
+[36m[2021-05-21 09:13:39] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [Strewbarbs Server][0m
+[36m[2021-05-21 13:58:46] [Commands.Util.Clear] [INFO][37m - User: [SnakeJ419] Channel: [old-general] Guild: [Woah, Nice Cock][0m
+[37m[2021-05-21 13:58:46] [Commands.Util.Clear] [FINE][37m - Removed Message: [845405290068312094] Content: [$clear 1] From: [unknown][0m
+[37m[2021-05-21 13:58:46] [Commands.Util.Clear] [FINE][37m - Removed Message: [845391328275595324] Content: [<@!297190923551506432> league?] From: [CLÜE][0m
+[36m[2021-05-21 14:12:45] [Commands.timezones.TimeConversion] [INFO][37m - User: [Xeneres] Channel: [vault-of-ass] Guild: [JMDD][0m
+[36m[2021-05-21 23:54:12] [Commands.timezones.TimeConversion] [INFO][37m - User: [BarleyZP] Channel: [general] Guild: [Strewbarbs Server][0m
+[36m[2021-05-21 23:54:24] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [Strewbarbs Server][0m
+[36m[2021-05-22 00:12:11] [Commands.timezones.TimeConversion] [INFO][37m - User: [BarleyZP] Channel: [general] Guild: [Strewbarbs Server][0m
+[36m[2021-05-22 09:02:55] [Commands.timezones.TimeConversion] [INFO][37m - User: [Xeneres] Channel: [destiny] Guild: [JMDD][0m
+[36m[2021-05-22 09:03:34] [Commands.timezones.TimeConversion] [INFO][37m - User: [Boogiepop] Channel: [destiny] Guild: [JMDD][0m
+[36m[2021-05-22 09:04:25] [Commands.timezones.TimeConversion] [INFO][37m - User: [Boogiepop] Channel: [destiny] Guild: [JMDD][0m
+[36m[2021-05-24 13:00:11] [Commands.Scheduling.NewEvent] [INFO][37m - User: [SnakeJ419] Channel: [destiny] Guild: [JMDD][0m
+[37m[2021-05-24 13:00:11] [Commands.Scheduling.NewEvent] [FINE][37m - Formatting error in received message, canceling request[0m
+[36m[2021-05-24 13:00:50] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [destiny] Guild: [JMDD][0m
+[36m[2021-05-24 13:00:50] [Commands.Scheduling.NewEvent] [INFO][37m - User: [SnakeJ419] Channel: [destiny] Guild: [JMDD][0m
+[37m[2021-05-24 13:00:50] [Commands.Scheduling.NewEvent] [FINE][37m - Event [vault_of_ass] at [Mon May 24 15:30:00 PDT 2021] for up to [6] participants[0m
+[36m[2021-05-24 20:31:27] [Commands.timezones.TimeConversion] [INFO][37m - User: [BarleyZP] Channel: [image-spam] Guild: [Strewbarbs Server][0m
+[36m[2021-05-25 14:04:15] [Commands.timezones.TimeConversion] [INFO][37m - User: [Boogiepop] Channel: [destiny] Guild: [JMDD][0m
+[36m[2021-05-25 15:43:48] [Commands.timezones.TimeConversion] [INFO][37m - User: [GrandLucidity] Channel: [destiny] Guild: [JMDD][0m
+[36m[2021-05-25 15:44:03] [Commands.timezones.TimeConversion] [INFO][37m - User: [GrandLucidity] Channel: [destiny] Guild: [JMDD][0m
+[36m[2021-05-25 15:44:43] [Commands.meme.DabCommand] [INFO][37m - User: [GrandLucidity] Channel: [destiny] Guild: [JMDD][0m
+[36m[2021-05-25 15:51:34] [Commands.meme.DabCommand] [INFO][37m - User: [FunDome] Channel: [destiny] Guild: [JMDD][0m
+[36m[2021-05-25 15:51:54] [Commands.meme.DabCommand] [INFO][37m - User: [Xeneres] Channel: [destiny] Guild: [JMDD][0m
+[36m[2021-05-25 17:24:32] [Commands.meme.DabCommand] [INFO][37m - User: [Boogiepop] Channel: [destiny] Guild: [JMDD][0m
+[36m[2021-05-25 21:10:29] [Commands.Util.Suppress$SilentSuppressor] [INFO][37m - Suppressed [Bread] in [Strewbarb's Server][0m
+[36m[2021-05-25 21:11:30] [Commands.Util.Suppress$SilentSuppressor] [INFO][37m - Ended suppression on [Bread] in [Strewbarb's Server][0m
+[36m[2021-05-25 21:12:00] [Commands.meme.DabCommand] [INFO][37m - User: [BarleyZP] Channel: [general] Guild: [Strewbarb's Server][0m
+[36m[2021-05-26 09:07:19] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [video-spam] Guild: [Strewbarb's Server][0m
+[36m[2021-05-26 22:08:51] [Commands.meme.DabCommand] [INFO][37m - User: [SnakeJ419] Channel: [image-spam] Guild: [Strewbarb's Server][0m
+[36m[2021-05-27 11:27:57] [Commands.Util.Clear] [INFO][37m - User: [thoughtslay3r] Channel: [destiny] Guild: [JMDD][0m
+[37m[2021-05-27 11:27:58] [Commands.Util.Clear] [FINE][37m - Removed Message: [847541660619636736] Content: [$clear 5] From: [unknown][0m
+[37m[2021-05-27 11:27:58] [Commands.Util.Clear] [FINE][37m - Removed Message: [847539437952696401] Content: [fine I guess you are my little Vog champ] From: [unknown][0m
+[37m[2021-05-27 11:27:58] [Commands.Util.Clear] [FINE][37m - Removed Message: [847537270402973747] Content: [pog] From: [unknown][0m
+[37m[2021-05-27 11:27:58] [Commands.Util.Clear] [FINE][37m - Removed Message: [847536842914922536] Content: [Hell yeah] From: [unknown][0m
+[37m[2021-05-27 11:27:58] [Commands.Util.Clear] [FINE][37m - Removed Message: [847536839589888040] Content: [I'll help if yall cant find a 6th] From: [unknown][0m
+[37m[2021-05-27 11:27:58] [Commands.Util.Clear] [FINE][37m - Removed Message: [847536724006666260] Content: [lucid is probably out because of all the farming but does anyone wanna run vog later] From: [unknown][0m
+[36m[2021-05-27 18:07:52] [Commands.timezones.TimeConversion] [INFO][37m - User: [BarleyZP] Channel: [general] Guild: [Strewbarb's Server][0m
+[36m[2021-05-27 23:37:11] [Commands.Util.Suppress$SilentSuppressor] [INFO][37m - Suppressed [Lawlerhat] in [Woah, Nice Cock][0m
+[36m[2021-05-27 23:38:02] [Commands.Util.Suppress$SilentSuppressor] [INFO][37m - Ended suppression on [Lawlerhat] in [Woah, Nice Cock][0m
+[36m[2021-05-28 19:27:40] [Commands.meme.DabCommand] [INFO][37m - User: [BarleyZP] Channel: [general] Guild: [Strewbarb's Server][0m
+[36m[2021-05-28 21:33:46] [Commands.Util.ClearTo] [INFO][37m - User: [SnakeJ419] Channel: [new-general] Guild: [Woah, Nice Cock][0m
+[37m[2021-05-28 21:33:46] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056503210082384] Content: [$clearto 848056438878240788] From: [unknown][0m
+[37m[2021-05-28 21:33:46] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056485447598101] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[37m[2021-05-28 21:33:46] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056482481045505] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[37m[2021-05-28 21:33:46] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056481496563722] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[37m[2021-05-28 21:33:46] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056480367640586] Content: [Estas en discordo] From: [Conar][0m
+[37m[2021-05-28 21:33:46] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056448612171808] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[37m[2021-05-28 21:33:46] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056447614582824] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[37m[2021-05-28 21:33:46] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056446637572096] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[37m[2021-05-28 21:33:46] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056445882859550] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[37m[2021-05-28 21:33:46] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056444515385404] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[37m[2021-05-28 21:33:46] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056443433517096] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[37m[2021-05-28 21:33:46] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056442594000916] Content: [<@!204436639072780299>] From: [Conar][0m
+[37m[2021-05-28 21:33:46] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056442014924801] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[37m[2021-05-28 21:33:46] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056440954552351] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[37m[2021-05-28 21:33:46] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056440286740490] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[37m[2021-05-28 21:33:46] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056438878240788] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[36m[2021-05-28 21:35:24] [Commands.Util.ClearTo] [INFO][37m - User: [SnakeJ419] Channel: [new-general] Guild: [Woah, Nice Cock][0m
+[37m[2021-05-28 21:35:25] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056916164214824] Content: [$clearto 848056520787623956] From: [unknown][0m
+[37m[2021-05-28 21:35:25] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056571405008916] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[37m[2021-05-28 21:35:25] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056570411745290] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[37m[2021-05-28 21:35:25] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056569182158858] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[37m[2021-05-28 21:35:25] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056567907876875] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[37m[2021-05-28 21:35:25] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056567093133322] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[37m[2021-05-28 21:35:25] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056566266462218] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[37m[2021-05-28 21:35:25] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056541437100064] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[37m[2021-05-28 21:35:25] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056540559573003] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[37m[2021-05-28 21:35:25] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056539335753758] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[37m[2021-05-28 21:35:25] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056538123862066] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[37m[2021-05-28 21:35:25] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056537204785172] Content: [<@!204436639072780299> <@!204436639072780299>] From: [CLÜE][0m
+[37m[2021-05-28 21:35:25] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056534642720819] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[37m[2021-05-28 21:35:25] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056527474786314] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[37m[2021-05-28 21:35:25] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056525988691969] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[37m[2021-05-28 21:35:25] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056524886376459] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[37m[2021-05-28 21:35:25] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056523804770315] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[37m[2021-05-28 21:35:25] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056522801283072] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[37m[2021-05-28 21:35:25] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848056520787623956] Content: [<@!204436639072780299>] From: [CLÜE][0m
+[36m[2021-05-28 22:26:40] [Commands.meme.DabCommand] [INFO][37m - User: [BarleyZP] Channel: [general] Guild: [DND - the world doesnt have a name i dont do that much planning][0m
+[36m[2021-05-28 23:13:25] [Commands.Scheduling.NewEvent] [INFO][37m - User: [SnakeJ419] Channel: [image-spam] Guild: [Strewbarb's Server][0m
+[37m[2021-05-28 23:13:25] [Commands.Scheduling.NewEvent] [FINE][37m - Formatting error in received message, canceling request[0m
+[36m[2021-05-28 23:13:40] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [image-spam] Guild: [Strewbarb's Server][0m
+[36m[2021-05-28 23:13:40] [Commands.Scheduling.NewEvent] [INFO][37m - User: [SnakeJ419] Channel: [image-spam] Guild: [Strewbarb's Server][0m
+[37m[2021-05-28 23:13:40] [Commands.Scheduling.NewEvent] [FINE][37m - Event [yes] at [Fri May 28 23:30:00 PDT 2021] for up to [30] participants[0m
+[36m[2021-05-28 23:17:12] [Commands.Util.ClearTo] [INFO][37m - User: [SnakeJ419] Channel: [image-spam] Guild: [Strewbarb's Server][0m
+[37m[2021-05-28 23:17:13] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848082533571624970] Content: [$clearto 848081581712867389] From: [Bread][0m
+[37m[2021-05-28 23:17:13] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848082387938443265] Content: [```diff
+- 30
+[6, 8, 2, 8, 6]
+```] From: [The Time Lord][0m
+[37m[2021-05-28 23:17:13] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848082387010322432] Content: [$5d10] From: [Bread][0m
+[37m[2021-05-28 23:17:13] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848081715799785502] Content: [Sorry <@749499267995140228> But you're currently committed to this event!] From: [The Time Lord][0m
+[37m[2021-05-28 23:17:13] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848081644433833984] Content: [] From: [The Time Lord][0m
+[37m[2021-05-28 23:17:13] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848081643733778462] Content: [Converted Times: 11:30pm pst; 12:30pm mst; 1:30am cst; 2:30am est] From: [The Time Lord][0m
+[37m[2021-05-28 23:17:13] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848081642769219624] Content: [$newevent yes 30 11:30pm] From: [Bread][0m
+[37m[2021-05-28 23:17:13] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848081582614380576] Content: [Error with the formatting of your message, Message should be in the format of:
+`$newevent <event_name> <max_participants> <hh:mma>`
+or
+`$newevent <event_name> <max_participants> <hh:mma> <MMM-dd>`] From: [The Time Lord][0m
+[37m[2021-05-28 23:17:13] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848081581712867389] Content: [$newevent] From: [Bread][0m
+[36m[2021-05-29 06:29:37] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [TimeLord's Super Secret Test Server][0m
+[36m[2021-05-29 06:30:28] [Commands.Util.Clear] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [TimeLord's Super Secret Test Server][0m
+[37m[2021-05-29 06:30:28] [Commands.Util.Clear] [FINE][37m - Removed Message: [848191568883613717] Content: [$clear 1] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:28] [Commands.Util.Clear] [FINE][37m - Removed Message: [848191547806711838] Content: [hello there my name is joshua roshua how are you doing today] From: [SnakeJ419][0m
+[36m[2021-05-29 06:30:53] [Commands.Util.Clean] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [TimeLord's Super Secret Test Server][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848191357989158942] Content: [Converted Times: 7:00am pst; 8:00am mst; 9:00am cst; 10:00am est] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848191310611480576] Content: [```diff
+- 9
+[9]
+```] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848191309725564928] Content: [$d20] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848190606848163850] Content: [```diff
+- 17
+[17]
+```] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848190605967884317] Content: [$d20] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848086436704157707] Content: [```diff
+- 7
+[1, 2] + 4
+```] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848086436187340801] Content: [$2d10 + 4] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848086404738056192] Content: [```diff
+- 12
+[5, 3] + 4
+```] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848086403853975582] Content: [$2d10+4] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848086310426247199] Content: [```diff
+- 35
+[13, 17] + 5
+```] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848086309415550996] Content: [$2d20 + 5] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848086169031016468] Content: [```diff
+- 17
+[5, 2]
+```] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848086168166989854] Content: [```diff
+- 17
+[5, 2] + 10
+```] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848086167089840148] Content: [$2d10 + 10] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848085620097155132] Content: [```diff
+- 16
+[16]
+```] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848085619296567347] Content: [$d20] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848084586058743829] Content: [```diff
+- 10
+[2, 8]
+```] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848084585748103168] Content: [$2d10] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848084564203405362] Content: [```diff
+- 1
+[1]
+```] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848084563297304636] Content: [$d10] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848082276956897310] Content: [```diff
+- 283
+[8, 2, 3, 7, 9, 5, 8, 5, 8, 10, 4, 6, 5, 9, 7, 9, 4, 1, 1, 6, 6, 2, 1, 10, 10, 7, 7, 7, 8, 9, 1, 9, 3, 2, 10, 4, 3, 6, 6, 6, 7, 9, 1, 7, 3, 5, 5, 5, 4, 3]
+```] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848082276238753802] Content: [$50d10] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848082242219278338] Content: [```diff
+- 5
+[5]
+```] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848082241221033984] Content: [$d10] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848082174036410399] Content: [```diff
+- 4
+[4]
+'''] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848082173517103124] Content: [$d10] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848082108261990460] Content: [```diff
+- 1```
+[1]] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848082107019296769] Content: [$d10] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848082019615506462] Content: [```diff
+ - 1```
+[1]] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848082018688172062] Content: [$d10] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848081903302213633] Content: [```diff
+ - 10
+[10]
+```] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848081902501756959] Content: [$d10] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848081366117384242] Content: [```diff
+ - 5
+[5]] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848081365220196412] Content: [$d10] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848079306630496296] Content: [`[3, 6, 3, 7, 4, 4, 4]`] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848079305463300096] Content: [$7d7] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848079034189086740] Content: [`[7, 3, 2, 2, 5, 2, 2]`] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848079033602539520] Content: [$7d7] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848079016674197524] Content: [`[7, 2, 1, 4, 2, 6, 7]`] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848079015780941845] Content: [$7d7] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848078952894693386] Content: [`[7, 1, 7, 5, 7, 5, 7]`] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848078951964606504] Content: [$7d7] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848078849266548766] Content: [`[3, 5, 2, 4, 0, 1, 5]`] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848078848347078707] Content: [$7d7] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848078821059067974] Content: [`[7]`] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848078820128718849] Content: [$d10] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848077379817701416] Content: [Dice Type: 123586] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848077379243212840] Content: [$3466d123586] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848077344240959518] Content: [Dice Type: 231] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848077343271551007] Content: [$d231] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848077324661424159] Content: [Dice Type: 10] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848077324271878154] Content: [$d10] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848076455136722976] Content: [Dice Type: 33] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848076184776474634] Content: [$d33] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848071827011665962] Content: [Dice to be rolled1] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848071826726715412] Content: [$d10] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848071805294215218] Content: [Dice to be rolled1] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848071804416557056] Content: [$1d10] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848071053364297748] Content: [Dice to be rolled1] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848071052789547028] Content: [$1d10] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848071032538398721] Content: [Dice to be rolled1] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848071032127488020] Content: [$d10] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848071005900374046] Content: [Dice to be rolled13] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848071005125607504] Content: [$13d10] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848069689242026014] Content: [https://discord.com/api/oauth2/authorize?client_id=733407709130391582&permissions=8&scope=bot] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848069688180867122] Content: [$invite] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848068132438671400] Content: [Dice to be rolled1] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [848068131426664478] Content: [$d50] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [844661582277640233] Content: [https://discord.com/api/oauth2/authorize?client_id=733407709130391582&permissions=8&scope=bot] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [844661581535248424] Content: [$invite] From: [SnakeJ419][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [817240671223808021] Content: [https://discord.com/api/oauth2/authorize?client_id=733407709130391582&permissions=8&scope=bot] From: [The Time Lord][0m
+[37m[2021-05-29 06:30:53] [Commands.Util.Clean] [FINE][37m - Removed Message: [817240670388486196] Content: [$invite] From: [SnakeJ419][0m
+[36m[2021-05-29 06:31:44] [Commands.Util.ClearTo] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [TimeLord's Super Secret Test Server][0m
+[37m[2021-05-29 06:31:44] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848191888635985930] Content: [$clearto 848084650249289728] From: [SnakeJ419][0m
+[37m[2021-05-29 06:31:44] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848191440605806613] Content: [s] From: [SnakeJ419][0m
+[37m[2021-05-29 06:31:44] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848191431653982218] Content: [f] From: [SnakeJ419][0m
+[37m[2021-05-29 06:31:44] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848191421310566411] Content: [$d] From: [SnakeJ419][0m
+[37m[2021-05-29 06:31:44] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848191381318402078] Content: [8] From: [SnakeJ419][0m
+[37m[2021-05-29 06:31:44] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848191356816195605] Content: [7am] From: [SnakeJ419][0m
+[37m[2021-05-29 06:31:44] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848191292269395979] Content: [s] From: [SnakeJ419][0m
+[37m[2021-05-29 06:31:44] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848191183939305482] Content: [s] From: [SnakeJ419][0m
+[37m[2021-05-29 06:31:44] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848190927193243668] Content: [s] From: [SnakeJ419][0m
+[37m[2021-05-29 06:31:44] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848190527568740412] Content: [s] From: [SnakeJ419][0m
+[37m[2021-05-29 06:31:44] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848085648325738496] Content: [$2d10 + 10] From: [SnakeJ419][0m
+[37m[2021-05-29 06:31:44] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848084650249289728] Content: [$2d10 + 10] From: [SnakeJ419][0m
+[36m[2021-05-30 16:05:48] [Commands.Scheduling.NewEvent] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [TimeLord's Super Secret Test Server][0m
+[37m[2021-05-30 16:05:48] [Commands.Scheduling.NewEvent] [FINE][37m - Formatting error in received message, canceling request[0m
+[36m[2021-05-30 16:05:57] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [TimeLord's Super Secret Test Server][0m
+[36m[2021-05-30 16:05:58] [Commands.Scheduling.NewEvent] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [TimeLord's Super Secret Test Server][0m
+[37m[2021-05-30 16:05:58] [Commands.Scheduling.NewEvent] [FINE][37m - Event [yes] at [Sun May 30 14:30:00 PDT 2021] for up to [6] participants[0m
+[36m[2021-05-30 16:18:32] [Commands.meme.DabCommand] [INFO][37m - User: [SnakeJ419] Channel: [bot-commands] Guild: [D&D & D&D Lawyers Office][0m
+[36m[2021-05-30 16:19:26] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [bot-commands] Guild: [D&D & D&D Lawyers Office][0m
+[36m[2021-05-30 16:19:35] [Commands.timezones.TimeConversion] [INFO][37m - User: [1Revenger1] Channel: [bot-commands] Guild: [D&D & D&D Lawyers Office][0m
+[36m[2021-05-30 16:19:51] [Commands.timezones.RegisterTimezone] [INFO][37m - User: [1Revenger1] Channel: [bot-commands] Guild: [D&D & D&D Lawyers Office][0m
+[36m[2021-05-30 16:20:24] [Commands.timezones.TimeConversion] [INFO][37m - User: [1Revenger1] Channel: [bot-commands] Guild: [D&D & D&D Lawyers Office][0m
+[36m[2021-05-30 16:20:33] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [bot-commands] Guild: [D&D & D&D Lawyers Office][0m
+[36m[2021-05-30 16:20:40] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [bot-commands] Guild: [D&D & D&D Lawyers Office][0m
+[36m[2021-05-30 16:20:56] [Commands.timezones.TimeConversion] [INFO][37m - User: [1Revenger1] Channel: [bot-commands] Guild: [D&D & D&D Lawyers Office][0m
+[36m[2021-05-30 16:21:31] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [bot-commands] Guild: [D&D & D&D Lawyers Office][0m
+[36m[2021-05-30 16:21:31] [Commands.Scheduling.NewEvent] [INFO][37m - User: [SnakeJ419] Channel: [bot-commands] Guild: [D&D & D&D Lawyers Office][0m
+[37m[2021-05-30 16:21:31] [Commands.Scheduling.NewEvent] [FINE][37m - Event [leave_dnd_call] at [Sun May 30 17:00:00 PDT 2021] for up to [6] participants[0m
+[36m[2021-05-30 16:23:11] [Commands.Util.ClearTo] [INFO][37m - User: [SnakeJ419] Channel: [bot-commands] Guild: [D&D & D&D Lawyers Office][0m
+[37m[2021-05-30 16:23:11] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848703118191493120] Content: [$clearto 848702849583677460] From: [Istriel H][0m
+[37m[2021-05-30 16:23:11] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848702982434717717] Content: [Sorry <@139548522377641984> But you're currently committed to this event!] From: [The Time Lord][0m
+[37m[2021-05-30 16:23:11] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848702974833721395] Content: [Sorry <@139548522377641984> But you're currently committed to this event!] From: [The Time Lord][0m
+[37m[2021-05-30 16:23:11] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848702965484617728] Content: [Sorry <@139548522377641984> But you're currently committed to this event!] From: [The Time Lord][0m
+[37m[2021-05-30 16:23:11] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848702957422772235] Content: [Sorry <@139548522377641984> But you're currently committed to this event!] From: [The Time Lord][0m
+[37m[2021-05-30 16:23:11] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848702949529223278] Content: [Sorry <@139548522377641984> But you're currently committed to this event!] From: [The Time Lord][0m
+[37m[2021-05-30 16:23:11] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848702929803673620] Content: [This command is admin protected] From: [The Time Lord][0m
+[37m[2021-05-30 16:23:11] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848702929153949766] Content: [$clear 5] From: [Istriel H][0m
+[37m[2021-05-30 16:23:11] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848702923746967595] Content: [Sorry <@139548522377641984> But you're currently committed to this event!] From: [The Time Lord][0m
+[37m[2021-05-30 16:23:11] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848702918336708618] Content: [Sorry <@139548522377641984> But you're currently committed to this event!] From: [The Time Lord][0m
+[37m[2021-05-30 16:23:11] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848702912385515521] Content: [Sorry <@139548522377641984> But you're currently committed to this event!] From: [The Time Lord][0m
+[37m[2021-05-30 16:23:11] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848702903836475403] Content: [Sorry <@139548522377641984> But you're currently committed to this event!] From: [The Time Lord][0m
+[37m[2021-05-30 16:23:11] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848702896438116392] Content: [Sorry <@139548522377641984> But you're currently committed to this event!] From: [The Time Lord][0m
+[37m[2021-05-30 16:23:11] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848702888867004416] Content: [Sorry <@139548522377641984> But you're currently committed to this event!] From: [The Time Lord][0m
+[37m[2021-05-30 16:23:11] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848702878767120445] Content: [Sorry <@139548522377641984> But you're currently committed to this event!] From: [The Time Lord][0m
+[37m[2021-05-30 16:23:11] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [848702849583677460] Content: [Sorry <@139548522377641984> But you're currently committed to this event!] From: [The Time Lord][0m
+[36m[2021-05-30 17:31:24] [Commands.meme.DabCommand] [INFO][37m - User: [BarleyZP] Channel: [general] Guild: [Strewbarb's Server][0m
+[36m[2021-06-01 14:10:02] [Commands.timezones.TimeConversion] [INFO][37m - User: [thoughtslay3r] Channel: [destiny] Guild: [JMDD][0m
+[36m[2021-06-01 22:16:24] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [Strewbarb's Server][0m
+[36m[2021-06-02 23:07:51] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [Strewbarb's Server][0m
+[36m[2021-06-03 12:34:50] [Commands.Util.Suppress$SilentSuppressor] [INFO][37m - Suppressed [Lawlerhat] in [Woah, Nice Cock][0m
+[36m[2021-06-03 12:35:10] [Commands.Util.Suppress$SilentSuppressor] [INFO][37m - Ended suppression on [Lawlerhat] in [Woah, Nice Cock][0m

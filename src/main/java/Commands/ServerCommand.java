@@ -67,4 +67,8 @@ public abstract class ServerCommand {
 	}
 
 	public abstract void runCommand(MessageReceivedEvent event);
+
+	public String getHelpMessage(){
+		return "To lazy to write";
+	};
 }

@@ -1,18 +1,20 @@
 package Commands.Util;
 
 import Commands.ServerCommand;
+import SlashTesting.SlashCommand;
 import net.dv8tion.jda.api.Permission;
 import net.dv8tion.jda.api.entities.Guild;
 import net.dv8tion.jda.api.entities.Member;
 import net.dv8tion.jda.api.entities.User;
 import net.dv8tion.jda.api.events.guild.voice.GuildVoiceJoinEvent;
+import net.dv8tion.jda.api.events.interaction.SlashCommandEvent;
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
 import org.jetbrains.annotations.NotNull;
 
 import java.util.logging.Level;
 
-public class Suppress extends ServerCommand {
+public class Suppress extends ServerCommand implements SlashCommand {
 
 	public Suppress() {
 		super("$suppress", true);
@@ -33,14 +35,34 @@ public class Suppress extends ServerCommand {
 		});
 	}
 
+	@Override
+	public void run(SlashCommandEvent event) {
+		User user = event.getOption("user").getAsUser();
+		event.getJDA().addEventListener(new SilentSuppressor(user, event.getGuild()));
+		event.reply(user.getName() + " has been suppressed").queue();
+	}
+
 	private class SilentSuppressor extends ListenerAdapter {
-		private final Member suppressed;
-		private final Guild guild;
+		private Member suppressed;
+		private Guild guild;
 
 		public SilentSuppressor(Member suppressed, Guild guild){
 			this.suppressed = suppressed;
 			this.guild = guild;
 			logger.log(Level.INFO, "Suppressed [" + suppressed.getEffectiveName() + "] in [" + guild.getName() + "]");
+		}
+
+		public SilentSuppressor(User suppressed, Guild guild){
+			guild.loadMembers().onSuccess(users -> {
+				for(Member member : users){
+					if(member.getUser().getId().equals(suppressed.getId())){
+						this.suppressed = member;
+						break;
+					}
+				}
+				this.guild = guild;
+				guild.moveVoiceMember(this.suppressed, null).queue();
+			});
 		}
 
 		@Override

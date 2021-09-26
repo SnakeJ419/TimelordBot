@@ -1,4 +1,5 @@
 import Commands.Scheduling.EventCoordinator;
+import SlashTesting.SlashProcessing;
 import net.dv8tion.jda.api.AccountType;
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.JDABuilder;
@@ -21,8 +22,17 @@ public class Main {
 	private static String token = "NzMzNDA3NzA5MTMwMzkxNTgy.XxCtRA.J1502_EgZrAPggmaCpUvJ0AZJ1Y";
 	private static final MessageProcessing messageProcessor = new MessageProcessing();
 	private static final EventCoordinator eventCoordinator = new EventCoordinator();
+	private static final SlashProcessing slashProcessing = new SlashProcessing();
 
-	public static void main(String[] args) throws LoginException {
-		jda = JDABuilder.createDefault(token).setActivity(Activity.of(Activity.ActivityType.DEFAULT, "with half a ship")).addEventListeners(messageProcessor).addEventListeners(eventCoordinator).enableIntents(GatewayIntent.GUILD_MEMBERS).build();
+	public static void main(String[] args) throws LoginException, InterruptedException {
+		jda = JDABuilder.createDefault(token)
+				.setActivity(Activity.of(Activity.ActivityType.DEFAULT, "with half a ship"))
+				.addEventListeners(messageProcessor)
+				.addEventListeners(eventCoordinator)
+				.addEventListeners(slashProcessing)
+				.enableIntents(GatewayIntent.GUILD_MEMBERS)
+				.build();
+		jda.awaitReady();
+		slashProcessing.load(jda);
 	}
 }

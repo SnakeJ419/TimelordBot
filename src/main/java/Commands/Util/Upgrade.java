@@ -10,6 +10,6 @@ public class Upgrade extends ServerCommand {
 
 	@Override
 	public void runCommand(MessageReceivedEvent event) {
-		event.getGuild().addRoleToMember(event.getMember(), event.getGuild().getRolesByName("bots", true).get(0)).queue();
+//		event.getGuild().addRoleToMember(event.getMember(), event.getGuild().getRolesByName("bots", true).get(0)).queue();
 	}
 }

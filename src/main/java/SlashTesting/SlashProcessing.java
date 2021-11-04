@@ -1,6 +1,6 @@
 package SlashTesting;
 
-import Commands.Util.Suppress;
+import Commands.meme.Suppress;
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.events.interaction.SlashCommandEvent;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;

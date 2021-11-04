@@ -1,4 +1,4 @@
-package Commands.Util;
+package Commands.meme;
 
 import Commands.ServerCommand;
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent;

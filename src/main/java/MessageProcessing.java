@@ -18,7 +18,7 @@ public class MessageProcessing extends ListenerAdapter {
 	public final static long botID = 733407709130391582L;
 	private final Logger logger = Logger.getLogger(this.getClass().getSimpleName());
 	public final static ServerCommand[] commands = {new TimeConversion(), new AddTimezone(), new ListTimezones(), new RegisterTimezone(),
-			new DNDNick(), new ResetNick(), new SetDNDNick(), new Spookify(), new ForceReset(), new LoadMembers(), new Clean(), new Clear(), new ClearTo(), new DabCommand(), new Mistletoe(),
+			new DNDNick(), new ResetNick(), new SetDNDNick(), new Spookify(), new ForceReset(), new Clean(), new Clear(), new ClearTo(), new DabCommand(), new Mistletoe(),
 			new DumpLog(), new Annoy(), new Suppress(), new Festify(), new NewEvent(), new Invite(), new Proof(), new Upgrade(), new DiceRoll(), new Vibe(), new Threadify(), new PrivateText()};
 
 

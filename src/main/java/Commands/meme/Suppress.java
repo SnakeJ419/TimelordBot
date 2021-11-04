@@ -1,4 +1,4 @@
-package Commands.Util;
+package Commands.meme;
 
 import Commands.ServerCommand;
 import SlashTesting.SlashCommand;

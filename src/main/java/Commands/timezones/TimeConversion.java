@@ -1,6 +1,8 @@
 package Commands.timezones;
 
 import Commands.ServerCommand;
+import Preferences.PreferenceManager;
+import Preferences.ServerDataStructure;
 import com.opencsv.CSVReader;
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
 
@@ -17,6 +19,12 @@ public class TimeConversion extends ServerCommand {
 	@Override
 	public void runCommand(MessageReceivedEvent event) {
 		logger.log(Level.INFO, "User: [" + event.getAuthor().getName() + "] Channel: [" + event.getChannel().getName() + "] Guild: [" + event.getGuild().getName() + ']');
+
+		//Check that time conversions have not been disabled for a server
+		ServerDataStructure data = PreferenceManager.getData(event.getGuild().getId());
+		if(!data.listTimezones){
+			return;
+		}
 
 		String message = event.getMessage().getContentRaw().toLowerCase();
 		char[] chars = message.toCharArray();

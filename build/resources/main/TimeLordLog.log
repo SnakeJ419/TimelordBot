@@ -777,3 +777,41 @@ or
 [36m[2021-11-04 01:11:36] [Commands.meme.DabCommand] [INFO][37m - User: [BarleyZP] Channel: [the-void] Guild: [Strew Tavern][0m
 [36m[2021-11-04 07:42:36] [Commands.timezones.TimeConversion] [INFO][37m - User: [BarleyZP] Channel: [general] Guild: [Strewbarb's Server][0m
 [36m[2021-11-04 13:01:59] [Commands.meme.DabCommand] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [Strewbarb's Server][0m
+[36m[2021-11-05 11:43:51] [Commands.timezones.TimeConversion] [INFO][37m - User: [BarleyZP] Channel: [general] Guild: [Strewbarb's Server][0m
+[36m[2021-11-06 18:38:31] [Commands.timezones.TimeConversion] [INFO][37m - User: [BarleyZP] Channel: [general] Guild: [Strewbarb's Server][0m
+[36m[2021-11-06 21:05:01] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [Strew Tavern][0m
+[36m[2021-11-06 21:05:05] [Commands.Util.Clear] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [Strew Tavern][0m
+[37m[2021-11-06 21:05:06] [Commands.Util.Clear] [FINE][37m - Removed Message: [906756121748971540] Content: [$clear 1] From: [SnakeJ419][0m
+[37m[2021-11-06 21:05:06] [Commands.Util.Clear] [FINE][37m - Removed Message: [906756104065802250] Content: [Converted Times: 6:00pm pst; 7:00pm mst; 8:00pm cst; 9:00pm est] From: [The Time Lord][0m
+[36m[2021-11-06 22:04:02] [Commands.meme.Annoy] [INFO][37m - User: [SnakeJ419] Channel: [2amsquad] Guild: [JMDD][0m
+[36m[2021-11-07 12:25:18] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [Strewbarb's Server][0m
+[36m[2021-11-07 12:25:46] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [Strewbarb's Server][0m
+[36m[2021-11-07 12:39:26] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [Strewbarb's Server][0m
+[36m[2021-11-07 12:40:12] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [Strewbarb's Server][0m
+[36m[2021-11-07 12:40:50] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [Strewbarb's Server][0m
+[36m[2021-11-07 12:41:02] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [Strewbarb's Server][0m
+[36m[2021-11-07 12:41:13] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [Strewbarb's Server][0m
+[36m[2021-11-07 12:41:26] [Commands.Util.ClearTo] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [Strewbarb's Server][0m
+[37m[2021-11-07 12:41:26] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [907006866406658089] Content: [$clearto 907002807842926602] From: [Director of Muffins <3][0m
+[37m[2021-11-07 12:41:26] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [907006810731470869] Content: [7pm] From: [Director of Muffins <3][0m
+[37m[2021-11-07 12:41:26] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [907006801512366111] Content: [$enableTimeConversion false] From: [Director of Muffins <3][0m
+[37m[2021-11-07 12:41:26] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [907006768008274020] Content: [Converted Times: 7:00pm pst; 8:00pm mst; 9:00pm cst; 10:00pm est] From: [The Time Lord][0m
+[37m[2021-11-07 12:41:26] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [907006767316213780] Content: [7pm] From: [Director of Muffins <3][0m
+[37m[2021-11-07 12:41:26] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [907006759510638663] Content: [$enableTimeConversion true] From: [Director of Muffins <3][0m
+[37m[2021-11-07 12:41:26] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [907006717315932181] Content: [7pm] From: [Director of Muffins <3][0m
+[37m[2021-11-07 12:41:26] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [907006693337100288] Content: [$enableTimeConversion false] From: [Director of Muffins <3][0m
+[37m[2021-11-07 12:41:26] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [907006558519590923] Content: [Converted Times: 7:00pm pst; 8:00pm mst; 9:00pm cst; 10:00pm est] From: [The Time Lord][0m
+[37m[2021-11-07 12:41:26] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [907006557575860284] Content: [7pm] From: [Director of Muffins <3][0m
+[37m[2021-11-07 12:41:26] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [907006510910013470] Content: [$enableTimeConversion false] From: [Director of Muffins <3][0m
+[37m[2021-11-07 12:41:26] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [907006414843686913] Content: [$enableTimezones false] From: [Director of Muffins <3][0m
+[37m[2021-11-07 12:41:26] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [907006362708488192] Content: [Converted Times: 7:00pm pst; 8:00pm mst; 9:00pm cst; 10:00pm est] From: [The Time Lord][0m
+[37m[2021-11-07 12:41:26] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [907006361370521650] Content: [7pm] From: [Director of Muffins <3][0m
+[37m[2021-11-07 12:41:26] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [907002924796883026] Content: [Converted Times: 7:30pm pst; 8:30pm mst; 9:30pm cst; 10:30pm est] From: [The Time Lord][0m
+[37m[2021-11-07 12:41:26] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [907002924352307220] Content: [eraldrhfvgodksahfvhadfkh 7:30pm sodhlfasoeiufh] From: [Director of Muffins <3][0m
+[37m[2021-11-07 12:41:26] [Commands.Util.ClearTo] [FINE][37m - Removed Message: [907002807842926602] Content: [Converted Times: 7:30pm pst; 8:30pm mst; 9:30pm cst; 10:30pm est] From: [The Time Lord][0m
+[36m[2021-11-07 12:42:00] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [TimeLord's Super Secret Test Server][0m
+[36m[2021-11-07 12:42:08] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [TimeLord's Super Secret Test Server][0m
+[36m[2021-11-07 12:42:31] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [TimeLord's Super Secret Test Server][0m
+[36m[2021-11-07 12:42:38] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [Strewbarb's Server][0m
+[36m[2021-11-07 12:44:04] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [Valorant Noobies][0m
+[36m[2021-11-07 12:44:26] [Commands.timezones.TimeConversion] [INFO][37m - User: [SnakeJ419] Channel: [general] Guild: [Valorant Noobies][0m

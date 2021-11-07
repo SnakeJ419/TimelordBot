@@ -1,4 +1,5 @@
 import Commands.*;
+import Commands.Preferences.EnableTimeConversion;
 import Commands.Scheduling.*;
 import Commands.Seasonal.*;
 import Commands.Util.*;
@@ -19,7 +20,8 @@ public class MessageProcessing extends ListenerAdapter {
 	private final Logger logger = Logger.getLogger(this.getClass().getSimpleName());
 	public final static ServerCommand[] commands = {new TimeConversion(), new AddTimezone(), new ListTimezones(), new RegisterTimezone(),
 			new DNDNick(), new ResetNick(), new SetDNDNick(), new Spookify(), new ForceReset(), new Clean(), new Clear(), new ClearTo(), new DabCommand(), new Mistletoe(),
-			new DumpLog(), new Annoy(), new Suppress(), new Festify(), new NewEvent(), new Invite(), new Proof(), new Upgrade(), new DiceRoll(), new Vibe(), new Threadify(), new PrivateText()};
+			new DumpLog(), new Annoy(), new Suppress(), new Festify(), new NewEvent(), new Invite(), new Proof(), new Upgrade(), new DiceRoll(), new Vibe(), new Threadify(), new PrivateText(),
+			new EnableTimeConversion()};
 
 
 	@Override

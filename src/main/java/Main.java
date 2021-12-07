@@ -15,11 +15,24 @@ import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 
 import javax.security.auth.login.LoginException;
+import java.io.File;
+import java.io.FileNotFoundException;
 import java.util.List;
+import java.util.Scanner;
 
 public class Main {
 	private static JDA jda;
-	private static String token = "NzMzNDA3NzA5MTMwMzkxNTgy.XxCtRA.J1502_EgZrAPggmaCpUvJ0AZJ1Y";
+	private static String token = "";
+	static {
+		try {
+			Scanner scan = new Scanner(new File("src/main/resources/token.txt"));
+			token = scan.nextLine();
+			System.out.println(token);
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+			System.exit(1);
+		}
+	}
 	private static final MessageProcessing messageProcessor = new MessageProcessing();
 	private static final EventCoordinator eventCoordinator = new EventCoordinator();
 	private static final SlashProcessing slashProcessing = new SlashProcessing();

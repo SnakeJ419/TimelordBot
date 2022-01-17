@@ -21,44 +21,47 @@ public class DiceRoll extends ServerCommand {
 
 	@Override
 	public void runCommand(MessageReceivedEvent event) {
-		String message = event.getMessage().getContentRaw().toLowerCase();
-		int diceCount = 0;
-		int startIndex = 2;
-		if(message.charAt(1) == 'd'){
-			diceCount = 1;
-		} else {
-			startIndex = message.indexOf('d') + 1;
-			diceCount = Integer.parseInt(message.substring(1, startIndex - 1));
-		}
-
-		String diceValue = "";
-		char nextChar;
-		while(startIndex < message.length() && Character.isDigit(nextChar = message.charAt(startIndex))){
-			diceValue += Integer.parseInt(String.valueOf(nextChar));
-			startIndex++;
-		}
-		int diceType = Integer.parseInt(diceValue);
-
-		int[] diceValues = new int[diceCount];
+		event.getMessage().getChannel().sendTyping().queue();
+		String message = event.getMessage().getContentRaw().toLowerCase().replace("$", "");
+		String[] elms = message.split(" ");
 		int total = 0;
-		for(int i = 0; i < diceCount; i++){
-			diceValues[i] = random.nextInt(diceType) + 1;
-			total += diceValues[i];
-		}
+		int mult = 1;
+		String outputString = "";
 
-		if(message.contains("+")){
-			String addString = message.split("\\+")[1];
-			int add = Integer.parseInt(addString.replace(" ", ""));
-			total += add;
-			event.getChannel().sendMessage("```diff\n" +
-					"- " + total + "\n" +
-					Arrays.toString(diceValues) + " + " + add + "\n" +
-					"```").queue();
-			return;
+		for(String elm : elms){
+			if(elm.equals("-")){
+				mult = -1;
+			} else if(elm.equals("+")) {
+				mult = 1;
+			} else if(elm.contains("d")) {
+				outputString += (mult == -1 ? " - " : " + ");
+				String[] diceParts = elm.split("d");
+				if(diceParts.length > 2){
+					continue;
+				}
+				outputString += "[";
+				int num = diceParts[0].equals("") ? 1 : Integer.parseInt(diceParts[0]);
+				int sides = Integer.parseInt(diceParts[1]);
+				for(int i = 0; i < num; i++){
+					int rand = random.nextInt(sides) + 1;
+					outputString += rand;
+					if(i != num-1) outputString += ", ";
+					total += mult * rand;
+				}
+				outputString += "]";
+			} else {
+				try{
+					int change = Integer.parseInt(elm);
+					total += mult * Integer.parseInt(elm);
+					outputString += (mult == -1 ? " - " : " + ") + change;
+				} catch (NumberFormatException e){
+					event.getChannel().sendMessage("Your command had an improper element, we've ignored it").queue();
+				}
+			}
 		}
 		event.getChannel().sendMessage("```diff\n" +
 				"- " + total + "\n" +
-				Arrays.toString(diceValues) + "\n" +
+				outputString + "\n" +
 				"```").queue();
 	}
 

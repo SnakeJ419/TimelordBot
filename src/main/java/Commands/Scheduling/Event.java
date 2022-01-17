@@ -49,7 +49,7 @@ public class Event {
 			if (participants.size() < maxParticipants) {
 				participants.add(reactionEvent.getMember());
 				maybes.remove(reactionEvent.getMember());
-				criticalMessage.editMessage(buildEmbed()).queue();
+				criticalMessage.editMessageEmbeds(buildEmbed()).queue();
 			} else {
 				parentEvent.getChannel().sendMessage("Sorry <@" + reactionEvent.getMember().getId() + "> but " + name + " is already full!").queue();
 			}
@@ -70,7 +70,7 @@ public class Event {
 			} else {
 				maybes.remove(member);
 			}
-			criticalMessage.editMessage(buildEmbed()).queue();
+			criticalMessage.editMessageEmbeds(buildEmbed()).queue();
 		});
 	}
 

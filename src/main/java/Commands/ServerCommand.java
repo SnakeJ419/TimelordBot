@@ -12,7 +12,7 @@ import java.util.logging.FileHandler;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-public abstract class ServerCommand {
+public abstract class ServerCommand extends Thread {
 	private final long betaServerID = 766543396222795828L;
 	private final List<Long> superAdmins = Arrays.asList(326415273827762176L, 418902573169508352L);
 

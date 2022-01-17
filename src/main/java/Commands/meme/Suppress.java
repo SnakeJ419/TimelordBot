@@ -27,10 +27,10 @@ public class Suppress extends ServerCommand implements SlashCommand {
 		event.getChannel().deleteMessageById(event.getMessageId()).queue();
 		event.getGuild().retrieveMemberById(memberText).queue(member -> {
 			event.getJDA().addEventListener(new SilentSuppressor(member, event.getGuild()));
-			member.getUser().openPrivateChannel().flatMap(privateChannel -> privateChannel.sendMessage(
-					"You have been suppressed in the server '" + event.getGuild().getName() + "'\n"
-					+ "You will not be able to join voice channels or send messages until the suppression has ended\n"
-					+ "Contact support at 425-647-3034 to remove your suppression")).queue();
+//			member.getUser().openPrivateChannel().flatMap(privateChannel -> privateChannel.sendMessage(
+//					"You have been suppressed in the server '" + event.getGuild().getName() + "'\n"
+//					+ "You will not be able to join voice channels or send messages until the suppression has ended\n"
+//					+ "Contact support at 425-647-3034 to remove your suppression")).queue();
 			event.getGuild().moveVoiceMember(member, null).queue();
 		});
 	}

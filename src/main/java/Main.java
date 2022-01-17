@@ -27,7 +27,6 @@ public class Main {
 		try {
 			Scanner scan = new Scanner(new File("src/main/resources/token.txt"));
 			token = scan.nextLine();
-			System.out.println(token);
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 			System.exit(1);
